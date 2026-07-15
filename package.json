@@ -1,0 +1,24 @@
+{
+  "name": "fptjobs-clone-runnable",
+  "version": "0.1.0",
+  "private": true,
+  "description": "FPT Jobs clone split into frontend and backend apps.",
+  "engines": {
+    "node": ">=24"
+  },
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "npm run dev:frontend",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev:backend": "npm --prefix backend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run start",
+    "start:backend": "npm --prefix backend run start",
+    "lint": "npm --prefix frontend run lint",
+    "typecheck": "npm --prefix frontend run typecheck",
+    "check": "npm --prefix frontend run check"
+  }
+}

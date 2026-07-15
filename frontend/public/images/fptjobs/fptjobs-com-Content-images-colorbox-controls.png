@@ -1,0 +1,27 @@
+
+
+
+<style>
+    body{
+        margin: 0;
+    }
+    .n-f {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 9;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #0c263c;
+    }
+    .n-f img{
+        width: 100%;
+    }
+</style>
+<div class="n-f">
+    <img src="/public/img/404.png" alt="404 NotFound" />
+</div>
+

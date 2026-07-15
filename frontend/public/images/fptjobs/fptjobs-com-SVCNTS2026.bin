@@ -1,0 +1,1942 @@
+
+﻿
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="/public/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/x-icon" href="/public/img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/public/img/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/public/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/public/img/favicon-16x16.png">
+    <title>FPT Telecom SVCNTS 2026 - Sinh viên Công nghệ Tập sự</title>
+    <meta name="description" content="Chương trình Sinh viên Công nghệ Tập sự 2026 của FPT Telecom: thu nhập đến 150 triệu VNĐ, mentorship 1:1, lộ trình fast-track. Ứng tuyển ngay!">
+    <link rel="canonical" href="https://fptjobs.com/SVCNTS2026" />
+
+    <meta property="og:url" content="https://fptjobs.com/SVCNTS2026" />
+    <meta property="og:title" content="SVCNTS 2026 - Sinh viên Công nghệ Tập sự - FPT Telecom" />
+    <meta property="og:description" content="Chương trình Sinh viên Công nghệ Tập sự 2026 của FPT Telecom" />
+    <meta property="og:site_name" content="https://fptjobs.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="vi_VN" />
+    <meta property="fb:app_id" content="589992934771268" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="/Content/Libs/jquery-confirm.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/plugins/monthSelect/style.css">
+    <link href="/Content/LandingPage/SVCNTS2026/index.css?v=639191949384879033" rel="stylesheet">
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NVXZMMVD');
+    </script>
+    <!-- End Google Tag Manager -->
+    <!-- Meta Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments) };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = [];
+            t = b.createElement(e); t.async = !0; t.src = v;
+            s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1219353115700013');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1219353115700013&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
+    <!-- TikTok Pixel -->
+    <script>
+        !function (w, d, t) {
+            w.TiktokAnalyticsObject = t; var ttq = w[t] = w[t] || [];
+            ttq.methods = ["page", "track", "identify", "instances", "debug", "on", "off", "once", "ready", "alias", "group", "enableCookie", "disableCookie", "holdConsent", "revokeConsent", "grantConsent"];
+            ttq.setAndDefer = function (t, e) { t[e] = function () { t.push([e].concat(Array.prototype.slice.call(arguments, 0))) } };
+            for (var i = 0; i < ttq.methods.length; i++) ttq.setAndDefer(ttq, ttq.methods[i]);
+            ttq.instance = function (t) { for (var e = ttq._i[t] || [], n = 0; n < ttq.methods.length; n++) ttq.setAndDefer(e, ttq.methods[n]); return e };
+            ttq.load = function (e, n) {
+                var r = "https://analytics.tiktok.com/i18n/pixel/events.js", o = n && n.partner;
+                ttq._i = ttq._i || {}; ttq._i[e] = []; ttq._i[e]._u = r; ttq._t = ttq._t || {}; ttq._t[e] = +new Date; ttq._o = ttq._o || {}; ttq._o[e] = n || {};
+                n = document.createElement("script"); n.type = "text/javascript"; n.async = !0; n.src = r + "?sdkid=" + e + "&lib=" + t;
+                e = document.getElementsByTagName("script")[0]; e.parentNode.insertBefore(n, e)
+            };
+            ttq.load('CVB4V43C77UAK8IKJG8G');
+            ttq.page();
+        }(window, document, 'ttq');
+    </script>
+    <!-- End TikTok Pixel -->
+</head>
+<body>
+    <h1 class="sr-only">SVCNTS 2026 - Chương trình Sinh viên Công nghệ Tập sự FPT Telecom</h1>
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVXZMMVD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+    <p id="clientId" style="display:none">20260709130231041</p>
+    <input name="__RequestVerificationToken" type="hidden" value="3UOEIipf-XyrcAs9gESbl3EbUSrtJfvCLhq1qC2MrWP8RC_pCYR5Yb3NF1TwanIyRRoS50-sGx-cTMhC_RoSLyXGcsH6lVL64827prUEZjI1" />
+
+    
+    <header class="svcnts-header">
+        <div class="svcnts-header__inner">
+            <a href="/" class="svcnts-header__logo">
+                <img src="/public/img/SVCNTS2026-img/logo-fpt-telecom-trang.png" alt="FPT Telecom" />
+            </a>
+            <button class="svcnts-hamburger" type="button" id="hamburgerBtn" aria-label="Menu">&#9776;</button>
+            <nav class="svcnts-nav" id="mainNav">
+                <a href="#section-vi-tri">Vị trí</a>
+                <a href="#section-benefits">Quyền lợi</a>
+                <a href="#section-target">Đối tượng</a>
+                <a href="#section-process">Quy trình</a>
+                <a href="#section-form" class="nav-cta">Ứng tuyển ngay</a>
+            </nav>
+        </div>
+    </header>
+
+    
+    <section class="section-hero">
+        <div class="section-hero__bg"></div>
+        <div class="section-hero__inner">
+            <div class="section-hero__left">
+                <img class="section-hero__title-img" src="/public/img/SVCNTS2026-img/hero-text.png" alt="Sinh viên Công nghệ Tập sự 2026 - Master Deep Tech, Lead The Next" />
+            </div>
+            <div class="section-hero__right">
+                <img src="/public/img/SVCNTS2026-img/hero-human.png" alt="SVCNTS 2026 visual" />
+            </div>
+        </div>
+    </section>
+
+    
+    <section id="section-vi-tri" class="section-categories">
+        <div class="container-svcnts">
+            <div class="section-heading section-heading--light">
+                <h2 style="flex: 1; z-index: 2; position: relative; color: #ffffff; font-family: 'Black Ops One', cursive; font-size: 18px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; line-height: 1.25; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8) ">NHÓM NGÀNH & VỊ TRÍ </h2>
+            </div>
+            <div class="category-tiles">
+                <button type="button" class="category-tile category-tile--icon-left" data-group="vien-thong">
+                    <span class="category-tile__icon">
+                        <img src="/public/img/SVCNTS2026-img/icon-vien-thong.png" alt="Viễn thông" />
+                    </span>
+                    <span class="category-tile__label">Viễn thông</span>
+                </button>
+                <button type="button" class="category-tile category-tile--icon-right" data-group="dien">
+                    <span class="category-tile__label">Điện &amp; Cơ điện tự động hóa</span>
+                    <span class="category-tile__icon">
+                        <img src="/public/img/SVCNTS2026-img/icon-dien-tu-dong-hoa.png" alt="Điện & Cơ điện" />
+                    </span>
+                </button>
+                <button type="button" class="category-tile category-tile--icon-left" data-group="cntt">
+                    <span class="category-tile__icon">
+                        <img src="/public/img/SVCNTS2026-img/icon-cntt.png" alt="CNTT" />
+                    </span>
+                    <span class="category-tile__label">Công nghệ thông tin</span>
+                </button>
+                <button type="button" class="category-tile category-tile--icon-right" data-group="attt">
+                    <span class="category-tile__label">An toàn thông tin</span>
+                    <span class="category-tile__icon">
+                        <img src="/public/img/SVCNTS2026-img/icon-attt.png" alt="ATTT" />
+                    </span>
+                </button>
+                <button type="button" class="category-tile category-tile--icon-left" data-group="ai">
+                    <span class="category-tile__icon">
+                        <img src="/public/img/SVCNTS2026-img/icon-du-lieu-ai.png" alt="Dữ liệu & AI" />
+                    </span>
+                    <span class="category-tile__label">Dữ liệu &amp; AI</span>
+                </button>
+                <button type="button" class="category-tile category-tile--icon-right" data-group="vimach">
+                    <span class="category-tile__label">Thiết kế vi mạch &amp; Phần cứng</span>
+                    <span class="category-tile__icon">
+                        <img src="/public/img/SVCNTS2026-img/icon-thiet-ke-vi-mach.png" alt="Vi mạch" />
+                    </span>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    
+
+
+        <div class="position-modal" id="position-modal-vien-thong" role="dialog" aria-modal="true" aria-hidden="true">
+            <div class="position-modal__overlay" data-modal-close></div>
+            <div class="position-modal__inner">
+                <button type="button" class="position-modal__close" data-modal-close aria-label="Đóng">&times;</button>
+                <div class="position-modal__header">
+                    <h2>Viễn th&#244;ng</h2>
+                    <p>Nơi bạn tham gia x&#226;y dựng &amp; vận h&#224;nh hạ tầng c&#225;p quang ti&#234;n tiến, phục vụ c&#225;c dịch vụ viễn th&#244;ng th&#244;ng minh</p>
+                </div>
+                <div class="position-modal__body">
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>TTS C&#244;ng nghệ Th&#244;ng tin V&#244; tuyến</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Tham gia m&#244; phỏng v&#224; ph&#226;n t&#237;ch t&#237;n hiệu v&#244; tuyến (WiFi, 5G/6G)</li>  <li>Xử l&#253; v&#224; ph&#226;n t&#237;ch dữ liệu t&#237;n hiệu (RSSI, CSI…)</li>  <li>Tham gia thử nghiệm c&#225;c b&#224;i to&#225;n mới li&#234;n quan đến th&#244;ng tin v&#244; tuyến</li>  <li>Wireless sensing (ph&#225;t hiện chuyển động, hiện diện…)</li>  <li>AI-native trong v&#244; tuyến</li>  <li>Hỗ trợ x&#226;y dựng demo, prototype hệ thống</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh Điện tử viễn th&#244;ng</li>  <li>C&#243; kiến thức cơ bản về: S&#243;ng v&#244; tuyến, mạng kh&#244;ng d&#226;y (WiFi, 4G/5G/6G,..)</li>  <li>C&#243; khả năng lập tr&#236;nh cơ bản: Python hoặc MATLAB</li>  <li>C&#243; tư duy: Logic, ph&#226;n t&#237;ch vấn đề, th&#237;ch t&#236;m hiểu c&#225;ch hệ thống hoạt động thực tế</li>  <li>Chủ động, ham học hỏi v&#224; sẵn s&#224;ng thử nghiệm</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Network Engineering</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Hỗ trợ triển khai v&#224; vận h&#224;nh hệ thống mạng Access (FTTH, GPON/XGSPON, access switch…) v&#224; mạng truyền tải (MPLS, aggregation/core)</li>  <li>Tham gia gi&#225;m s&#225;t hệ thống mạng, ph&#225;t hiện v&#224; hỗ trợ xử l&#253; sự cố</li>  <li>Hỗ trợ bảo tr&#236;, n&#226;ng cấp v&#224; tối ưu hệ thống mạng dưới sự hướng dẫn của kỹ sư ch&#237;nh</li>  <li>Tham gia c&#225;c dự &#225;n triển khai hạ tầng mạng của Trung t&#226;m</li>  <li>Hỗ trợ thu thập dữ liệu, ph&#226;n t&#237;ch log v&#224; lập b&#225;o c&#225;o sự cố</li>  <li>Cập nhật t&#224;i liệu kỹ thuật, sơ đồ mạng v&#224; quy tr&#236;nh vận h&#224;nh</li>  <li>Thực h&#224;nh cấu h&#236;nh thiết bị (lab/test) như router, switch</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3, 4 c&#225;c ng&#224;nh: CNTT, Điện tử viễn th&#244;ng, Mạng m&#225;y t&#237;nh hoặc li&#234;n quan</li>  <li>C&#243; kiến thức cơ bản về mạng m&#225;y t&#237;nh: M&#244; h&#236;nh OSI/TCP-IP, IP, subnet, routing cơ bản</li>  <li>C&#243; hiểu biết về Routing &amp; Switching: VLAN, STP, OSPF, BGP (cơ bản)</li>  <li>C&#243; khả năng sử dụng CLI tr&#234;n thiết bị mạng (Cisco, Juniper, Huawei l&#224; lợi thế)</li>  <li>C&#243; khả năng đọc hiểu t&#224;i liệu tiếng Anh kỹ thuật</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>TTS Ph&#226;n t&#237;ch &amp; Đ&#225;nh gi&#225; Hệ thống Network</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Hỗ trợ gi&#225;m s&#225;t v&#224; ph&#226;n t&#237;ch dữ liệu vận h&#224;nh của hệ thống mạng Core IP/Truyền dẫn</li>  <li>Tham gia đ&#225;nh gi&#225; chất lượng dịch vụ (QoS/QoE) nhằm đảm bảo hệ thống hoạt động ổn định</li>  <li>Ph&#226;n t&#237;ch log, cảnh b&#225;o từ hệ thống NOC để ph&#225;t hiện bất thường</li>  <li>Hỗ trợ lập b&#225;o c&#225;o định kỳ về hiệu năng mạng v&#224; sự cố</li>  <li>Phối hợp với c&#225;c team kỹ thuật để x&#225;c định nguy&#234;n nh&#226;n v&#224; đề xuất hướng cải thiện</li>  <li>Tham gia tối ưu hệ thống mạng dựa tr&#234;n dữ liệu thực tế</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3, 4 c&#225;c chuy&#234;n ng&#224;nh: CNTT, Điện tử Viễn th&#244;ng, Mạng m&#225;y t&#237;nh hoặc li&#234;n quan</li>  <li>C&#243; kiến thức kh&#225; về Network IP, Truyền dẫn, th&#244;ng tin quang (DWDM...)</li>  <li>C&#243; tư duy ph&#226;n t&#237;ch dữ liệu, logic tốt</li>  <li>Cẩn thận, chủ động, c&#243; tinh thần học hỏi</li>  <li>C&#243; thể thực tập tối thiểu 4 ng&#224;y/tuần</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Vận h&#224;nh Hệ thống Mạng</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Thiết kế, quy hoạch hệ thống Core IP/Truyền dẫn theo định hướng Automation</li>  <li>Xử l&#253; sự cố &amp; hỗ trợ kỹ thuật hệ thống Core IP/TD</li>  <li>Đề xuất tối ưu hạ tầng, đảm bảo vận h&#224;nh ổn định</li>  <li>Nghi&#234;n cứu c&#244;ng nghệ, ti&#234;u chuẩn mới (Automation, AI/Big Data)</li>  <li>B&#225;o c&#225;o kết quả c&#244;ng việc định kỳ</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh CNTT, Điện tử Viễn th&#244;ng, Mạng m&#225;y t&#237;nh hoặc li&#234;n quan</li>  <li>Nắm vững Network IP; ưu ti&#234;n c&#243; chứng chỉ Cisco/Juniper (CCNA, CCNP, JNCIA, JNCIP…)</li>  <li>C&#243; kiến thức về truyền dẫn/quang (DWDM…) l&#224; lợi thế</li>  <li>Biết lập tr&#236;nh, c&#243; kinh nghiệm AI/Automation l&#224; điểm cộng</li>  <li>Tư duy logic tốt, viết prompt tốt</li>  <li>Sử dụng tốt Excel, Word, PowerPoint; c&#243; kỹ năng thuyết tr&#236;nh, b&#225;o c&#225;o</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>VoIP Engineering</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Hỗ trợ vận h&#224;nh &amp; quản trị hệ thống VoIP (CloudPBX, Core Voice…)</li>  <li>Cấu h&#236;nh, kiểm tra v&#224; đối so&#225;t dữ liệu theo quy tr&#236;nh</li>  <li>Gi&#225;m s&#225;t hệ thống, hỗ trợ xử l&#253; sự cố cơ bản</li>  <li>Tham gia kiểm thử, đảm bảo chất lượng dịch vụ</li>  <li>Tổng hợp số liệu, lập b&#225;o c&#225;o định kỳ (SLA…)</li>  <li>Nghi&#234;n cứu c&#244;ng nghệ VoIP, Cloud, AI</li>  <li>Phối hợp c&#225;c bộ phận v&#224; thực hiện c&#244;ng việc theo ph&#226;n c&#244;ng</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh CNTT, Điện tử Viễn th&#244;ng, Mạng m&#225;y t&#237;nh hoặc li&#234;n quan</li>  <li>Kiến thức cơ bản: Mạng (TCP/IP, DNS…), Linux</li>  <li>Tư duy logic, xử l&#253; vấn đề cơ bản</li>  <li>Cẩn thận, l&#224;m việc theo quy tr&#236;nh</li>  <li>Học nhanh, phối hợp nh&#243;m tốt</li>  <li>C&#243; thể l&#224;m full-time hoặc ≥70% thời gian</li>  <li>Định hướng l&#226;u d&#224;i System/VoIP</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Wireless Network R&amp;D Intern</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Nghi&#234;n cứu ti&#234;u chuẩn IEEE 802.11 (Wi-Fi 7/8) &amp; 3GPP (R15 → 6G), b&#225;m s&#225;t c&#244;ng nghệ l&#245;i</li>  <li>C&#244;ng nghệ mới: ISAC, RIS, Massive MIMO, AI-Native Air Interface</li>  <li>Đ&#225;nh gi&#225; chipset: Ph&#226;n t&#237;ch năng lực RF (Broadcom, Qualcomm, Airoha…)</li>  <li>Tối ưu kết nối: RRM, Band Steering, Roaming (802.11k/v/r)</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 ng&#224;nh Điện tử Viễn th&#244;ng, Kỹ thuật M&#225;y t&#237;nh, Mạng m&#225;y t&#237;nh hoặc tương đương</li>  <li>Đọc hiểu tốt t&#224;i liệu kỹ thuật tiếng Anh (IEEE, 3GPP, ITU-T, Broadband Forum)</li>  <li>Sử dụng được c&#244;ng cụ ph&#226;n t&#237;ch/m&#244; phỏng (MATLAB, NS-3, Wireshark…)</li>  <li>Ưu ti&#234;n SV từ B&#225;ch Khoa, KHTN, UIT, PTIT, FPT</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Broadband Network Engineering Intern</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Thử nghiệm, đ&#225;nh gi&#225; hiệu năng thiết bị &amp; c&#244;ng nghệ FTTH (OLT/ONT, truyền dẫn quang)</li>  <li>Quy hoạch &amp; tối ưu mạng truy nhập quang (FTTx) theo ti&#234;u chuẩn quốc tế</li>  <li>Quản l&#253;, cập nhật dữ liệu hạ tầng tr&#234;n hệ thống GIS/OSP</li>  <li>Tham gia triển khai c&#244;ng nghệ mới (GPON, XGSPON…)</li>  <li>Kiểm tra chất lượng hạ tầng, lập b&#225;o c&#225;o &amp; đề xuất cải tiến</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 ng&#224;nh Điện tử Viễn th&#244;ng, Truyền dẫn quang hoặc li&#234;n quan</li>  <li>Nắm cơ bản truyền dẫn quang &amp; cấu tr&#250;c mạng truy nhập</li>  <li>Đọc hiểu tiếng Anh kỹ thuật; ưu ti&#234;n biết AI/Automation, GIS, Asset Management</li>  <li>Ưu ti&#234;n SV từ B&#225;ch Khoa, KHTN, UIT, PTIT, FPT</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="position-modal" id="position-modal-dien" role="dialog" aria-modal="true" aria-hidden="true">
+            <div class="position-modal__overlay" data-modal-close></div>
+            <div class="position-modal__inner">
+                <button type="button" class="position-modal__close" data-modal-close aria-label="Đóng">&times;</button>
+                <div class="position-modal__header">
+                    <h2>Điện &amp; Cơ điện tự động h&#243;a</h2>
+                    <p>Vận h&#224;nh &amp; tối ưu hệ thống điện, l&#224;m m&#225;t v&#224; tự động ho&#225; cho Data Center quy m&#244; lớn</p>
+                </div>
+                <div class="position-modal__body">
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Electrical Infrastructure Intern (Vị tr&#237; Điện)</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Hỗ trợ thiết kế, gi&#225;m s&#225;t v&#224; vận h&#224;nh hệ thống điện Data Center (UPS, PDU, ph&#226;n phối điện)</li>  <li>Tham gia kiểm tra, bảo tr&#236; định kỳ</li>  <li>Theo d&#245;i chỉ số vận h&#224;nh, cảnh b&#225;o sự cố</li>  <li>Phối hợp đảm bảo hệ thống hoạt động ổn định</li>  <li>Lập b&#225;o c&#225;o v&#224; đề xuất cải tiến</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 ng&#224;nh Kỹ thuật điện, Hệ thống điện hoặc li&#234;n quan</li>  <li>C&#243; kiến thức cơ bản về hệ thống điện c&#244;ng nghiệp</li>  <li>Ưu ti&#234;n hiểu về UPS, PDU, điện Data Center</li>  <li>Cẩn thận, tr&#225;ch nhiệm, tinh thần học hỏi</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>HVAC Infrastructure Engineer (Vị tr&#237; Nhiệt)</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Hỗ trợ vận h&#224;nh, gi&#225;m s&#225;t hệ thống điều h&#242;a ch&#237;nh x&#225;c (Precision Air Conditioning) tại Data Center</li>  <li>Tham gia kiểm tra, bảo tr&#236; hệ thống HVAC</li>  <li>Theo d&#245;i nhiệt độ, độ ẩm, tối ưu hiệu suất l&#224;m m&#225;t</li>  <li>Phối hợp xử l&#253; sự cố v&#224; đề xuất cải tiến hệ thống</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh Kỹ thuật nhiệt, Nhiệt lạnh, Cơ điện lạnh hoặc li&#234;n quan</li>  <li>C&#243; kiến thức cơ bản về HVAC, điều h&#242;a kh&#244;ng kh&#237;</li>  <li>Ưu ti&#234;n hiểu hệ thống l&#224;m m&#225;t Data Center</li>  <li>Chủ động, c&#243; khả năng l&#224;m việc nh&#243;m</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>TTS c&#244;ng nghệ Tự động ho&#225;</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Hỗ trợ triển khai hệ thống BMS, IoT, cảm biến gi&#225;m s&#225;t; lập tr&#236;nh PLC cơ bản</li>  <li>X&#226;y dựng hệ thống điều khiển tự động, thiết kế logic xử l&#253; v&#224; ra quyết định</li>  <li>M&#244; phỏng hoạt động thiết bị, cảm biến, cơ cấu chấp h&#224;nh</li>  <li>Ph&#225;t triển module điều khiển, gi&#225;m s&#225;t, xử l&#253; t&#237;n hiệu</li>  <li>T&#237;ch hợp phần mềm – thiết bị – dữ liệu v&#224; thực hiện kiểm thử hệ thống</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh Tự động h&#243;a, Điều khiển, Điện – Điện tử</li>  <li>C&#243; kiến thức cơ bản về hệ thống điều khiển, cảm biến v&#224; cơ cấu chấp h&#224;nh</li>  <li>Biết một trong c&#225;c: Python, C/C++, lập tr&#236;nh nh&#250;ng</li>  <li>Tư duy logic, hệ thống, th&#237;ch t&#236;m hiểu vận h&#224;nh thực tế</li>  <li>Chủ động, ham học hỏi, sẵn s&#224;ng thử nghiệm</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Automation &amp; AI Intern (Infrastructure focus)</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Quản trị &amp; vận h&#224;nh hạ tầng Data Center (UPS, HVAC, PDU…).</li>  <li>Ứng dụng AI/ML để ph&#225;t hiện bất thường, dự b&#225;o sự cố.</li>  <li>Tối ưu năng lượng &amp; hiệu suất vận h&#224;nh Data Center.</li>  <li>Nghi&#234;n cứu c&#244;ng nghệ nguồn điện cho hệ thống AI c&#244;ng suất cao.</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>SV năm 3 - 4 khối Điện, Tự động h&#243;a, Điện tử Viễn th&#244;ng…</li>  <li>C&#243; nền tảng AI/Data, biết Python hoặc MATLAB l&#224; lợi thế.</li>  <li>Tư duy logic tốt, ham học hỏi v&#224; th&#237;ch thực h&#224;nh thực tế.</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="position-modal" id="position-modal-cntt" role="dialog" aria-modal="true" aria-hidden="true">
+            <div class="position-modal__overlay" data-modal-close></div>
+            <div class="position-modal__inner">
+                <button type="button" class="position-modal__close" data-modal-close aria-label="Đóng">&times;</button>
+                <div class="position-modal__header">
+                    <h2>C&#244;ng nghệ th&#244;ng tin</h2>
+                    <p>Ph&#225;t triển sản phẩm phần mềm, hệ thống nội bộ v&#224; ph&#226;n t&#237;ch nghiệp vụ trong m&#244;i trường Agile thực tế</p>
+                </div>
+                <div class="position-modal__body">
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Backend Intern (Java, Python, NodeJS, C++)</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Hỗ trợ ph&#225;t triển Backend, RESTful API bằng Python/NodeJS/C++</li>  <li>T&#236;m hiểu m&#244; h&#236;nh Cluster/Failover, DR cho hệ thống IoT</li>  <li>Tham gia PoC, xử l&#253; logic nghiệp vụ v&#224; l&#224;m việc với Database</li>  <li>Viết Unit Test, debug, tối ưu hiệu năng cơ bản</li>  <li>Tham gia review code v&#224; l&#224;m quen quy tr&#236;nh Agile/Scrum</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh CNTT, Khoa học M&#225;y t&#237;nh hoặc li&#234;n quan</li>  <li>Nắm vững OOP, c&#243; kiến thức Python/NodeJS/C++ v&#224; SQL</li>  <li>Hiểu ES6, DOM, ReactJS/VueJS/NodeJS</li>  <li>C&#243; project c&#225; nh&#226;n/đồ &#225;n l&#224; lợi thế</li>  <li>Chủ động, ham học hỏi, tư duy logic tốt, tr&#225;ch nhiệm</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Fullstack Intern</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Frontend: X&#226;y dựng UI/UX bằng ReactJS/VueJS</li>  <li>Backend: Ph&#225;t triển API, xử l&#253; logic bằng Python/NodeJS/C++ (Express/NestJS)</li>  <li>L&#224;m việc với DB (MongoDB/PostgreSQL/MySQL)</li>  <li>Fix bug, viết test, l&#224;m quen Git, CI/CD, Agile</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 ng&#224;nh CNTT/Kỹ thuật Phần mềm</li>  <li>Nắm vững JS/ES6+, HTML, CSS; biết 1 ng&#244;n ngữ Backend (Node.js/.NET)</li>  <li>C&#243; kinh nghiệm React/Vue v&#224; Node.js (project/đồ &#225;n)</li>  <li>Hiểu DB (SQL/NoSQL) v&#224; RESTful API</li>  <li>C&#243; GitHub/Portfolio l&#224; lợi thế</li>  <li>Chủ động, ham học hỏi, sẵn s&#224;ng c&#224;y code</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Business Analyst</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Ph&#226;n t&#237;ch nghiệp vụ, tối ưu quy tr&#236;nh tr&#234;n hệ thống Inside (B2B)</li>  <li>Thu thập, hệ thống h&#243;a y&#234;u cầu từ c&#225;c b&#234;n li&#234;n quan (Sales, HTKT, SOC)</li>  <li>Ph&#226;n t&#237;ch điểm nghẽn v&#224; đề xuất cải tiến quy tr&#236;nh</li>  <li>Viết BRD/User Story, phối hợp Tech triển khai &amp; UAT</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 ng&#224;nh QTKD, Hệ thống th&#244;ng tin quản l&#253;, CNTT hoặc li&#234;n quan</li>  <li>Tư duy ph&#226;n t&#237;ch tốt; hiểu quy tr&#236;nh b&#225;n h&#224;ng/vận h&#224;nh l&#224; lợi thế</li>  <li>Th&#224;nh thạo Excel/Google Sheets; biết c&#244;ng cụ vẽ quy tr&#236;nh (Miro, Lucidchart, draw.io, Figma)</li>  <li>Viết t&#224;i liệu r&#245; r&#224;ng, giao tiếp &amp; phối hợp tốt</li>  <li>Ưu ti&#234;n c&#243; kinh nghiệm CRM/ERP hoặc dự &#225;n ph&#226;n t&#237;ch nghiệp vụ thực tế</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="position-modal" id="position-modal-attt" role="dialog" aria-modal="true" aria-hidden="true">
+            <div class="position-modal__overlay" data-modal-close></div>
+            <div class="position-modal__inner">
+                <button type="button" class="position-modal__close" data-modal-close aria-label="Đóng">&times;</button>
+                <div class="position-modal__header">
+                    <h2>An to&#224;n th&#244;ng tin</h2>
+                    <p>Ph&#225;t hiện, đ&#225;nh gi&#225; v&#224; vận h&#224;nh hệ thống bảo mật ứng dụng &amp; hạ tầng quy m&#244; lớn</p>
+                </div>
+                <div class="position-modal__body">
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Kỹ sư bảo mật ứng dụng</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>D&#242; t&#236;m, ph&#226;n t&#237;ch v&#224; x&#225;c minh lỗ hổng bảo mật ứng dụng (web/app)</li>  <li>Hỗ trợ đ&#225;nh gi&#225; bảo mật v&#224; kiểm thử (pentest cơ bản)</li>  <li>Ph&#226;n t&#237;ch log, ph&#225;t hiện h&#224;nh vi bất thường</li>  <li>Nghi&#234;n cứu lỗ hổng phổ biến (OWASP Top 10) v&#224; đề xuất khắc phục</li>  <li>Hỗ trợ lập b&#225;o c&#225;o v&#224; theo d&#245;i xử l&#253; lỗ hổng</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 (hoặc năm 2-3 học kỳ cuối) ng&#224;nh ATTT, An ninh mạng, CNTT hoặc li&#234;n quan</li>  <li>C&#243; kiến thức cơ bản về Web (HTTP/HTTPS, API) v&#224; c&#225;c lỗ hổng phổ biến (XSS, SQL Injection, Authentication, Authorization)</li>  <li>Ưu ti&#234;n: biết sử dụng c&#244;ng cụ bảo mật (Burp Suite, OWASP ZAP)</li>  <li>Tư duy ph&#226;n t&#237;ch, cẩn thận, ki&#234;n nhẫn</li>  <li>Chủ động học hỏi, định hướng theo Security/Pentest</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Nh&#226;n vi&#234;n vận h&#224;nh dịch vụ bảo mật</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Gi&#225;m s&#225;t 24/7 hệ thống an ninh qua SIEM v&#224; c&#225;c c&#244;ng cụ bảo mật</li>  <li>Ph&#226;n t&#237;ch cảnh b&#225;o (IDS/IPS, firewall, endpoint), đ&#225;nh gi&#225; mức độ v&#224; xử l&#253; ban đầu</li>  <li>Tạo, quản l&#253; v&#224; xử l&#253; ticket sự cố</li>  <li>Phối hợp xử l&#253; sự cố với SOC Tier 2/3 hoặc đội Incident Response</li>  <li>B&#225;o c&#225;o t&#236;nh h&#236;nh an ninh theo ca trực, tu&#226;n thủ SOP/Playbook</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 ng&#224;nh An ninh bảo mật th&#244;ng tin, CNTT</li>  <li>C&#243; kiến thức về c&#244;ng cụ gi&#225;m s&#225;t (Dynatrace, Grafana, Splunk, SIEM, SOAR, SolarWinds, OpenSearch)</li>  <li>Hiểu cơ bản về mạng (thiết bị, định tuyến, kết nối)</li>  <li>Nắm kiến thức hệ điều h&#224;nh Linux, Windows v&#224; dịch vụ hệ thống</li>  <li>C&#243; hiểu biết về IDS/IPS, SIEM, Firewall</li>  <li>Đọc hiểu t&#224;i liệu tiếng Anh tốt, chịu được &#225;p lực v&#224; l&#224;m việc theo ca</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="position-modal" id="position-modal-ai" role="dialog" aria-modal="true" aria-hidden="true">
+            <div class="position-modal__overlay" data-modal-close></div>
+            <div class="position-modal__inner">
+                <button type="button" class="position-modal__close" data-modal-close aria-label="Đóng">&times;</button>
+                <div class="position-modal__header">
+                    <h2>Dữ liệu &amp; Tr&#237; tuệ nh&#226;n tạo</h2>
+                    <p>X&#226;y dựng AI Agent, m&#244; h&#236;nh ML, pipeline dữ liệu v&#224; Digital Twin tr&#234;n dữ liệu vận h&#224;nh thực tế</p>
+                </div>
+                <div class="position-modal__body">
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>AI Engineer Intern (Algorithm &amp; Agent)</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Xử l&#253;, l&#224;m sạch dữ liệu; train &amp; đ&#225;nh gi&#225; m&#244; h&#236;nh Machine Learning/Computer Vision cơ bản</li>  <li>Nghi&#234;n cứu, x&#226;y dựng Trợ l&#253; AI (AI Agent)</li>  <li>Thiết kế hệ thống RAG kết hợp Vector Database cho chatbot</li>  <li>Viết prompt, thử nghiệm framework AI (LangChain, LangGraph)</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh CNTT, Khoa học dữ liệu, To&#225;n tin hoặc li&#234;n quan</li>  <li>Lập tr&#236;nh Python tốt, tư duy logic v&#224; to&#225;n học</li>  <li>C&#243; khả năng x&#226;y dựng ứng dụng GenAI end-to-end, biết SQL</li>  <li>Biết một trong c&#225;c framework: Scikit-learn, PyTorch, TensorFlow</li>  <li>Hiểu cơ bản về LLM, Prompt Engineering; đọc hiểu tiếng Anh tốt</li>  <li>Ưu ti&#234;n c&#243; project Chatbot, RAG hoặc tham gia Kaggle</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Full-stack AI Integration Intern (System &amp; App)</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Backend &amp; T&#237;ch hợp: X&#226;y dựng API (Python/Node.js/Golang) để t&#237;ch hợp v&#224; triển khai c&#225;c m&#244; h&#236;nh AI</li>  <li>Ph&#225;t triển ứng dụng: Tham gia x&#226;y dựng Web/Miniapp c&#243; t&#237;nh năng AI (chatbot, dashboard…)</li>  <li>T&#237;ch hợp hệ thống: Kết nối qua RESTful API, WebSocket, Message Queue (Kafka/RabbitMQ)</li>  <li>AI hỗ trợ dev: Sử dụng Copilot, Cursor để tăng tốc ph&#225;t triển Frontend/Backend</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 ng&#224;nh CNTT, Kỹ thuật Phần mềm, Hệ thống Th&#244;ng tin</li>  <li>C&#243; nền tảng lập tr&#236;nh Web/App; biết Python, Java hoặc Node.js</li>  <li>Hiểu REST API v&#224; Database (SQL/NoSQL)</li>  <li>Kh&#244;ng y&#234;u cầu kinh nghiệm AI chuy&#234;n s&#226;u</li>  <li>Ưu ti&#234;n: th&#237;ch c&#244;ng nghệ mới, từng l&#224;m web/app c&#243; t&#237;ch hợp API AI (như OpenAI/Claude)</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>DBA (Database Administrator)</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Quản trị &amp; vận h&#224;nh CSDL (Oracle/MySQL/PostgreSQL)</li>  <li>Theo d&#245;i hiệu năng, tối ưu query &amp; index</li>  <li>Hỗ trợ backup/restore, đảm bảo an to&#224;n dữ liệu</li>  <li>Phối hợp Dev/Data xử l&#253; sự cố li&#234;n quan Database</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 ng&#224;nh CNTT, Khoa học m&#225;y t&#237;nh, Hệ thống th&#244;ng tin</li>  <li>Th&#224;nh thạo SQL (JOIN, GROUP BY, Subquery), hiểu c&#225;c kh&#225;i niệm CSDL quan hệ (Index, Transaction, ACID)</li>  <li>C&#243; khả năng sử dụng MariaDB/PostgreSQL/Oracle, biết tối ưu truy vấn</li>  <li>Ưu ti&#234;n: từng c&#224;i đặt, trải nghiệm hệ quản trị cơ sở dữ liệu</li>  <li>Tỉ mỉ, cẩn thận, c&#243; tr&#225;ch nhiệm cao</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Data Analyst</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Truy vấn dữ liệu, x&#226;y dựng report/dashboard theo d&#245;i KPI</li>  <li>X&#226;y dựng pipeline dữ liệu (ACS/TR-069/MQTT)</li>  <li>Ph&#226;n t&#237;ch dữ liệu hệ thống (Wi-Fi/Network), h&#224;nh vi người d&#249;ng &amp; funnel</li>  <li>X&#226;y dựng model đơn giản (scoring), ph&#225;t hiện bất thường &amp; kiểm tra dữ liệu</li>  <li>Ứng dụng AI (LLM/ChatGPT) để hỗ trợ viết SQL, xử l&#253; data v&#224; t&#237;ch hợp v&#224;o dashboard</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 c&#225;c ng&#224;nh Kinh tế, Quản trị, Hệ thống th&#244;ng tin, To&#225;n tin</li>  <li>C&#243; kiến thức SQL cơ bản (SELECT, JOIN, GROUP BY)</li>  <li>Sử dụng tốt Excel (Pivot, Lookup)</li>  <li>Biết Python (Pandas/Numpy), kiến thức cơ bản Machine Learning (regression, classification)</li>  <li>Ưu ti&#234;n: biết Power BI/Tableau, data visualization, networking v&#224; c&#243; project c&#225; nh&#226;n</li>  <li>Tư duy logic, cẩn thận với số liệu, biết đặt c&#226;u hỏi từ dữ liệu</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Data Engineering</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Nghi&#234;n cứu, thử nghiệm c&#244;ng nghệ xử l&#253; v&#224; lưu trữ Big Data</li>  <li>X&#226;y dựng luồng ETL/ELT tự động</li>  <li>L&#224;m việc với hệ thống dữ liệu lớn, Data Warehouse/Data Lake</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 c&#225;c ng&#224;nh kỹ thuật (c&#225;c trường khối kỹ thuật)</li>  <li>Tư duy logic hệ thống tốt, nắm vững SQL v&#224; cấu tr&#250;c cơ sở dữ liệu</li>  <li>Biết lập tr&#236;nh Python hoặc Scala/Java</li>  <li>Ưu ti&#234;n: c&#243; kiến thức về Big Data (Hadoop, Spark, Kafka) hoặc c&#244;ng cụ điều phối (Airflow)</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Data Scientist</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Nghi&#234;n cứu Digital Twin cho Decision Intelligence (m&#244; phỏng h&#224;nh vi, m&#244; h&#236;nh h&#243;a quyết định)</li>  <li>X&#226;y dựng m&#244; h&#236;nh Machine Learning/Generative AI n&#226;ng cao</li>  <li>Triển khai, đ&#225;nh gi&#225; v&#224; tối ưu giải ph&#225;p AI</li>  <li>&#193;p dụng kỹ thuật giải th&#237;ch m&#244; h&#236;nh (XAI: SHAP, LIME)</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 ng&#224;nh Tr&#237; tuệ nh&#226;n tạo, Học m&#225;y, Khoa học dữ liệu, To&#225;n</li>  <li>Lập tr&#236;nh Python tốt</li>  <li>Th&#224;nh thạo c&#225;c thư viện ML/Deep Learning (Scikit-learn, PyTorch, TensorFlow)</li>  <li>C&#243; nền tảng vững về To&#225;n thống k&#234; v&#224; X&#225;c suất</li>  <li>Ưu ti&#234;n: biết m&#244; h&#236;nh h&#243;a quy tr&#236;nh (BPMN/DMN), c&#243; project ML/Customer Analytics</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>TTS Dữ liệu v&#224; Tự động h&#243;a Mạng</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Tham gia R&amp;D ph&#225;t triển nền tảng NOC, ứng dụng Dữ liệu &amp; AI để tự động h&#243;a vận h&#224;nh mạng viễn th&#244;ng</li>  <li>Thiết kế, chuẩn h&#243;a m&#244; h&#236;nh dữ liệu theo chuẩn quốc tế (SID – TM Forum)</li>  <li>X&#226;y dựng workflow tự động xử l&#253; sự cố (ph&#225;t hiện → xử l&#253; → đ&#243;ng ticket) bằng Python</li>  <li>T&#237;ch hợp AI/LLM cho cảnh b&#225;o v&#224; ra quyết định th&#244;ng minh</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3-4 ng&#224;nh CNTT, Hệ thống th&#244;ng tin, Mạng m&#225;y t&#237;nh</li>  <li>C&#243; kiến thức thiết kế cơ sở dữ liệu (UML, ERD), tư duy hệ thống tốt</li>  <li>Biết lập tr&#236;nh Python</li>  <li>Ưu ti&#234;n: hiểu Viễn th&#244;ng (OSS/BSS), biết tool Automation (Airflow, n8n), hoặc t&#237;ch hợp API AI (OpenAI, Claude)</li>  <li>Đọc hiểu t&#224;i liệu tiếng Anh kỹ thuật tốt</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="position-modal" id="position-modal-vimach" role="dialog" aria-modal="true" aria-hidden="true">
+            <div class="position-modal__overlay" data-modal-close></div>
+            <div class="position-modal__inner">
+                <button type="button" class="position-modal__close" data-modal-close aria-label="Đóng">&times;</button>
+                <div class="position-modal__header">
+                    <h2>Thiết kế vi mạch &amp; Phần cứng</h2>
+                    <p>Thiết kế, kiểm thử IC, lập tr&#236;nh firmware v&#224; ph&#225;t triển bo mạch trong m&#244;i trường R&amp;D thực chiến</p>
+                </div>
+                <div class="position-modal__body">
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>IC Design Intern (RTL &amp; Logic Design)</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Tham gia thiết kế c&#225;c khối IP ở mức logic (RTL) cho vi điều khiển hoặc bộ tăng tốc AI</li>  <li>Viết code m&#244; tả phần cứng bằng Verilog/SystemVerilog/VHDL</li>  <li>Thực hiện kiểm tra chất lượng code (Linting, CDC)</li>  <li>Hỗ trợ tổng hợp mạch (Logic Synthesis) từ RTL sang Netlist</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh Kỹ thuật m&#225;y t&#237;nh, Điện tử – Viễn th&#244;ng</li>  <li>Nắm vững mạch số v&#224; kiến tr&#250;c m&#225;y t&#237;nh</li>  <li>C&#243; kiến thức hoặc từng sử dụng Verilog/VHDL</li>  <li>Ưu ti&#234;n: từng thực h&#224;nh FPGA hoặc l&#224;m việc với hệ vi xử l&#253; RISC-V</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>IC Verification Intern</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>T&#236;m hiểu phương ph&#225;p kiểm thử phần cứng UVM (Universal Verification Methodology)</li>  <li>Viết testbench bằng SystemVerilog để m&#244; phỏng hoạt động của chip</li>  <li>Chạy simulation tr&#234;n c&#225;c c&#244;ng cụ EDA (VCS, QuestaSim, Xcelium) để ph&#225;t hiện lỗi logic</li>  <li>Theo d&#245;i v&#224; b&#225;o c&#225;o độ bao phủ m&#227; (Coverage)</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh Kỹ thuật m&#225;y t&#237;nh, Kỹ thuật phần mềm, Điện tử</li>  <li>Tư duy logic tốt, th&#224;nh thạo lập tr&#236;nh hướng đối tượng (C++ hoặc SystemVerilog)</li>  <li>Cẩn thận, tỉ mỉ, th&#237;ch t&#236;m v&#224; ph&#226;n t&#237;ch lỗi</li>  <li>Ưu ti&#234;n: hiểu c&#225;c giao thức phần cứng (UART, SPI, AMBA AXI/APB)</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Physical Design Intern</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>L&#224;m quen quy tr&#236;nh thiết kế vật l&#253; ASIC (RTL-to-GDSII)</li>  <li>Hỗ trợ Floorplanning, Placement, Routing</li>  <li>T&#236;m hiểu ph&#226;n t&#237;ch thời gian (STA) v&#224; năng lượng (Power/IR Drop)</li>  <li>Viết script (Tcl, Python) để tự động h&#243;a tr&#234;n c&#244;ng cụ EDA</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh Điện tử viễn th&#244;ng, Kỹ thuật m&#225;y t&#237;nh, Vật l&#253; kỹ thuật</li>  <li>Hiểu cơ bản về cấu kiện điện tử (CMOS, transistor) v&#224; cổng logic</li>  <li>Biết lập tr&#236;nh script (Python, Tcl, Bash/Shell tr&#234;n Linux) l&#224; lợi thế</li>  <li>Ưu ti&#234;n: từng d&#249;ng c&#244;ng cụ EDA (Synopsys, Cadence) hoặc thiết kế layout PCB</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Embedded Software Intern</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Ph&#225;t triển Firmware, BSP cho chip/vi điều khiển (ARM, RISC-V)</li>  <li>Lập tr&#236;nh C/C++ cấu h&#236;nh thanh ghi, bộ nhớ, giao tiếp (I2C, SPI, UART, GPIO)</li>  <li>Tham gia bring-up board mạch mới</li>  <li>Phối hợp test IP với đội thiết kế chip tr&#234;n phần cứng thật</li>  <li>T&#236;m hiểu RTOS hoặc Embedded Linux</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh Kỹ thuật m&#225;y t&#237;nh, Điện tử Viễn th&#244;ng, Tự động h&#243;a</li>  <li>Lập tr&#236;nh C/C++ tốt (con trỏ, quản l&#253; bộ nhớ)</li>  <li>Nắm vững vi điều khiển v&#224; c&#225;c chuẩn giao tiếp (I2C, SPI…)</li>  <li>Th&#237;ch t&#236;m t&#242;i, sẵn s&#224;ng debug với thiết bị đo (Oscilloscope, Logic Analyzer)</li>  <li>Ưu ti&#234;n: từng l&#224;m dự &#225;n với STM32, ESP32, Raspberry Pi hoặc lập tr&#236;nh bare-metal</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-header">
+                                <span>Hardware Design Intern (PCB &amp; System Board)</span>
+                                <span class="accordion-arrow">&#9660;</span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="accordion-body__inner">
+                                    <div class="acc-cols">
+                                        <div class="acc-col">
+                                            <h4>Nhiệm vụ chính</h4>
+                                            <ul>
+ <li>Hỗ trợ thiết kế schematic v&#224; PCB cho Evaluation/Test Board</li>  <li>T&#236;m hiểu thiết kế PCB nhiều lớp, mạch tốc độ cao, xử l&#253; nhiễu (SI/PI)</li>  <li>Hỗ trợ lựa chọn linh kiện, l&#224;m việc với nh&#224; cung cấp</li>  <li>Tham gia h&#224;n, lắp r&#225;p (SMT) v&#224; đo kiểm bo mạch trong Lab</li>                                             </ul>
+                                        </div>
+                                        <div class="acc-col">
+                                            <h4>Yêu cầu</h4>
+                                            <ul>
+ <li>Sinh vi&#234;n năm 3 - 4 ng&#224;nh Điện tử viễn th&#244;ng, Kỹ thuật điện - điện tử, Cơ điện tử</li>  <li>C&#243; kiến thức về linh kiện điện tử (tụ, trở, cuộn cảm, IC, op-amp)</li>  <li>Biết sử dụng phần mềm thiết kế mạch (Altium, KiCad, OrCAD, Allegro)</li>  <li>Ưu ti&#234;n: c&#243; kỹ năng h&#224;n linh kiện d&#225;n (SMD), từng thiết kế PCB thực tế</li>                                             </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+    
+    <section id="section-benefits" class="section-benefits">
+        <div class="container-svcnts">
+            <div class="section-heading section-heading--light">
+                <h2 style=" flex: 1; z-index: 2; position: relative; color: #ffffff; font-family: 'Black Ops One', cursive; font-size: 18px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; line-height: 1.25; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8)"
+                    >Quyền lợi <span class="text-vuot-troi">vượt trội</span> cho tài năng trẻ</h2>
+            </div>
+            <div class="benefits-grid">
+                <div class="benefit-card">
+                    <div class="icon-wrapper">
+                        <img src="/public/img/SVCNTS2026-img/icon-thu-nhap.png" alt="Thu nhập" />
+                    </div>
+                    <h4>Thu nhập <span class="highlight-text">đột phá</span></h4>
+                    <p>Bỏ túi lên đến <span class="big-amount">150 triệu VNĐ</span> khi vẫn là sinh viên</p>
+                </div>
+                <div class="benefit-card">
+                    <div class="icon-wrapper">
+                        <img src="/public/img/SVCNTS2026-img/icon-thuc-chien.png" alt="Thực chiến" />
+                    </div>
+                    <h4>Thực chiến <span class="highlight-text">R&amp;D</span></h4>
+                    <p>Phát triển trong môi trường R&amp;D thực tế, tool bản quyền, hạ tầng tiên tiến</p>
+                </div>
+                <div class="benefit-card">
+                    <div class="icon-wrapper">
+                        <img src="/public/img/SVCNTS2026-img/icon-mentorship.png" alt="Mentorship" />
+                    </div>
+                    <h4>Đặc quyền <span class="highlight-text">Mentorship 1:1</span></h4>
+                    <p>Bảo trợ chuyên môn, đối thoại trực tiếp và kèm cặp từ chuyên gia hàng đầu</p>
+                </div>
+                <div class="benefit-card">
+                    <div class="icon-wrapper">
+                        <img src="/public/img/SVCNTS2026-img/icon-but-toc.png" alt="Bứt tốc" />
+                    </div>
+                    <h4>Bứt tốc <span class="highlight-text">sự nghiệp</span></h4>
+                    <p>Khóa đào tạo công nghệ chuyên sâu, tài trợ 100% chi phí</p>
+                </div>
+                <div class="benefit-card">
+                    <div class="icon-wrapper">
+                        <img src="/public/img/SVCNTS2026-img/icon-lo-trinh.png" alt="Lộ trình" />
+                    </div>
+                    <h4>Lộ trình <span class="highlight-text">Fast-track</span></h4>
+                    <p>Trở thành nhân viên chính thức &amp; phát triển thành đội ngũ cán bộ nguồn</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+    <section id="section-target" class="section-target">
+        <div class="content-left">
+            <div class="section-heading section-heading--light">
+                <h2 style="flex: 1; z-index: 2; position: relative; color: #ffffff; font-family: 'Black Ops One', cursive; font-size: 18px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; line-height: 1.25; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8)">Đối tượng <span class="text-vuot-troi">tuyển chọn</span></h2>
+            </div>
+            <ul class="main-list">
+                <li>Sinh viên năm 3 hoặc năm cuối đang theo học các ngành Công nghệ Thông tin, Điện tử Viễn thông</li>
+                <li>Có khả năng làm việc tại Hà Nội hoặc TP. Hồ Chí Minh</li>
+                <li>GPA từ 7.0/10 hoặc 2.8/4.0 trở lên</li>
+                <li>Ưu tiên ứng viên có/đang học các chứng chỉ chuyên môn phù hợp với lĩnh vực</li>
+                <li>Tham gia các hoạt động xã hội, cộng đồng là một lợi thế</li>
+            </ul>
+        </div>
+        <div class="content-right">
+            <img src="/public/img/SVCNTS2026-img/doi-tuong-prop.png" alt="Đối tượng tuyển chọn" />
+        </div>
+    </section>
+
+    
+    <section id="section-experts" class="section-experts">
+        <div class="container-svcnts">
+            <div class="section-heading section-heading--light">
+                <h2 style="flex: 1; z-index: 2; position: relative; color: #ffffff; font-family: 'Black Ops One', cursive; font-size: 18px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; line-height: 1.25; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8)"><span class="small-title">Gặp gỡ</span><br />Các <span class="text-vuot-troi">chuyên gia</span> của FPT Telecom</h2>
+            </div>
+            <div class="experts-carousel">
+                <button class="carousel-arrow prev" id="expertsPrev" type="button">&#10094;</button>
+                <button class="carousel-arrow next" id="expertsNext" type="button">&#10095;</button>
+                <div class="experts-track" id="expertsTrack">
+
+                        <div class="expert-card team-item" data-expert="sang">
+                            <div class="team-thumb">
+                                <img src="/public/img/SVCNTS2026-img/expert-huynh-quang-sang.png" alt="Huỳnh Quang Sang" />
+                                <div class="shape-wrap">
+                                    <div class="shape shape-1"></div>
+                                    <div class="shape shape-2"></div>
+                                    <div class="shape shape-3"></div>
+                                    <div class="shape shape-4"></div>
+                                    <div class="shape shape-5"></div>
+                                    <div class="shape shape-6"></div>
+                                </div>
+                            </div>
+                            <div class="team-content">
+                                <span class="whte-shape"></span>
+                                <h3>Huỳnh Quang Sang</h3>
+                                <h4>Trưởng ph&#242;ng 
+Nghi&#234;n cứu &amp; Ph&#225;t triển</h4>
+                            </div>
+                        </div>
+                        <div class="expert-card team-item" data-expert="than">
+                            <div class="team-thumb">
+                                <img src="/public/img/SVCNTS2026-img/expert-nguyen-trong-than.png" alt="Nguyễn Trọng Th&#226;n" />
+                                <div class="shape-wrap">
+                                    <div class="shape shape-1"></div>
+                                    <div class="shape shape-2"></div>
+                                    <div class="shape shape-3"></div>
+                                    <div class="shape shape-4"></div>
+                                    <div class="shape shape-5"></div>
+                                    <div class="shape shape-6"></div>
+                                </div>
+                            </div>
+                            <div class="team-content">
+                                <span class="whte-shape"></span>
+                                <h3>Nguyễn Trọng Th&#226;n</h3>
+                                <h4>Ph&#243; Gi&#225;m đốc 
+Trung t&#226;m AI Chip</h4>
+                            </div>
+                        </div>
+                        <div class="expert-card team-item" data-expert="duc">
+                            <div class="team-thumb">
+                                <img src="/public/img/SVCNTS2026-img/expert-nguyen-anh-duc.png" alt="Nguyễn Anh Đức" />
+                                <div class="shape-wrap">
+                                    <div class="shape shape-1"></div>
+                                    <div class="shape shape-2"></div>
+                                    <div class="shape shape-3"></div>
+                                    <div class="shape shape-4"></div>
+                                    <div class="shape shape-5"></div>
+                                    <div class="shape shape-6"></div>
+                                </div>
+                            </div>
+                            <div class="team-content">
+                                <span class="whte-shape"></span>
+                                <h3>Nguyễn Anh Đức</h3>
+                                <h4>Gi&#225;m đốc 
+Ban FPT Life</h4>
+                            </div>
+                        </div>
+                        <div class="expert-card team-item" data-expert="hai">
+                            <div class="team-thumb">
+                                <img src="/public/img/SVCNTS2026-img/expert-tran-thanh-hai.png" alt="Trần Thanh Hải" />
+                                <div class="shape-wrap">
+                                    <div class="shape shape-1"></div>
+                                    <div class="shape shape-2"></div>
+                                    <div class="shape shape-3"></div>
+                                    <div class="shape shape-4"></div>
+                                    <div class="shape shape-5"></div>
+                                    <div class="shape shape-6"></div>
+                                </div>
+                            </div>
+                            <div class="team-content">
+                                <span class="whte-shape"></span>
+                                <h3>Trần Thanh Hải</h3>
+                                <h4>Gi&#225;m đốc C&#244;ng nghệ</h4>
+                            </div>
+                        </div>
+                        <div class="expert-card team-item" data-expert="trung">
+                            <div class="team-thumb">
+                                <img src="/public/img/SVCNTS2026-img/expert-le-trung.png" alt="L&#234; Trung" />
+                                <div class="shape-wrap">
+                                    <div class="shape shape-1"></div>
+                                    <div class="shape shape-2"></div>
+                                    <div class="shape shape-3"></div>
+                                    <div class="shape shape-4"></div>
+                                    <div class="shape shape-5"></div>
+                                    <div class="shape shape-6"></div>
+                                </div>
+                            </div>
+                            <div class="team-content">
+                                <span class="whte-shape"></span>
+                                <h3>L&#234; Trung</h3>
+                                <h4>Gi&#225;m đốc 
+TT Ph&#225;t triển &amp; Quản l&#253; Hạ tầng</h4>
+                            </div>
+                        </div>
+                        <div class="expert-card team-item" data-expert="dat">
+                            <div class="team-thumb">
+                                <img src="/public/img/SVCNTS2026-img/expert-nguyen-thanh-dat.png" alt="Nguyễn Th&#224;nh Đạt" />
+                                <div class="shape-wrap">
+                                    <div class="shape shape-1"></div>
+                                    <div class="shape shape-2"></div>
+                                    <div class="shape shape-3"></div>
+                                    <div class="shape shape-4"></div>
+                                    <div class="shape shape-5"></div>
+                                    <div class="shape shape-6"></div>
+                                </div>
+                            </div>
+                            <div class="team-content">
+                                <span class="whte-shape"></span>
+                                <h3>Nguyễn Th&#224;nh Đạt</h3>
+                                <h4>Ph&#243; Gi&#225;m đốc 
+Trung t&#226;m Điều h&#224;nh mạng</h4>
+                            </div>
+                        </div>
+                        <div class="expert-card team-item" data-expert="cong">
+                            <div class="team-thumb">
+                                <img src="/public/img/SVCNTS2026-img/expert-nguyen-thanh-cong.png" alt="Nguyễn Th&#224;nh C&#244;ng" />
+                                <div class="shape-wrap">
+                                    <div class="shape shape-1"></div>
+                                    <div class="shape shape-2"></div>
+                                    <div class="shape shape-3"></div>
+                                    <div class="shape shape-4"></div>
+                                    <div class="shape shape-5"></div>
+                                    <div class="shape shape-6"></div>
+                                </div>
+                            </div>
+                            <div class="team-content">
+                                <span class="whte-shape"></span>
+                                <h3>Nguyễn Th&#224;nh C&#244;ng</h3>
+                                <h4>Trưởng ph&#242;ng 
+C&#244;ng nghệ v&#224; Dữ liệu</h4>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+    <div class="expert-modal" id="expertModal" role="dialog" aria-modal="true">
+        <button class="expert-modal__close" id="expertModalClose" type="button" aria-label="Đóng">&times;</button>
+        <div class="expert-modal__inner">
+            <div class="expert-modal__img">
+                <img id="expertModalImg" src="" alt="" />
+            </div>
+            <div class="expert-modal__body">
+                <h3 id="expertModalName"></h3>
+                <div class="expert-modal__role" id="expertModalRole"></div>
+                <p class="expert-modal__bio" id="expertModalBio"></p>
+            </div>
+        </div>
+    </div>
+
+    
+    <section id="section-alumni" class="section-alumni">
+        <div class="container-svcnts">
+            <div class="section-heading section-heading--light">
+                <h2 style="flex: 1; z-index: 2; position: relative; color: #ffffff; font-family: 'Black Ops One', cursive; font-size: 18px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; line-height: 1.25; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8)"><span class="small-title">Lắng nghe chia sẻ</span><br />Của các <span class="text-vuot-troi">Cựu sinh viên Công nghệ Tập sự</span></h2>
+            </div>
+            <div class="alumni-carousel">
+                <button class="carousel-arrow prev" id="alumniPrev" type="button">&#10094;</button>
+                <button class="carousel-arrow next" id="alumniNext" type="button">&#10095;</button>
+                <div class="alumni-track" id="alumniTrack">
+
+                        <div class="testimonial-card">
+                            <div class="testimonial-header">
+                                <img src="/public/img/SVCNTS2026-img/alumni-pham-van-quyen.png" alt="Phạm Văn Quyền" />
+                                <h2>Phạm Văn Quyền</h2>
+                                <h4>Trưởng nh&#243;m Giải ph&#225;p C&#244;ng nghệ Ph&#237;a Nam</h4>
+                                <h6>Sinh viên công nghệ tập sự 2018</h6>
+                            </div>
+                            <div class="testimonial-body">
+                                <p>“Đến với FPT Telecom khi c&#242;n l&#224; sinh vi&#234;n năm 4, m&#236;nh từng nghĩ chỉ l&#224; trải nghiệm để tốt nghiệp. Nhưng chỉ sau 4 th&#225;ng, với lộ tr&#236;nh r&#245; r&#224;ng v&#224; mentor đồng h&#224;nh, m&#236;nh đ&#227; c&#243; cơ hội tham gia dự &#225;n lớn nơi trước đ&#243; chỉ d&#224;nh cho người nhiều kinh nghiệm. Đ&#243; l&#224; những l&#253; do khiến m&#236;nh gắn b&#243; hơn 8 năm qua.”</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-card">
+                            <div class="testimonial-header">
+                                <img src="/public/img/SVCNTS2026-img/alumni-do-cong-danh.png" alt="Đỗ C&#244;ng Danh" />
+                                <h2>Đỗ C&#244;ng Danh</h2>
+                                <h4>Ph&#243; ph&#242;ng Quản trị Hạ tầng Dịch vụ</h4>
+                                <h6>Sinh viên công nghệ tập sự 2017</h6>
+                            </div>
+                            <div class="testimonial-body">
+                                <p>“L&#224; một trong những sinh vi&#234;n đầu ti&#234;n tham gia, m&#236;nh xem đ&#226;y l&#224; bước ngoặt quan trọng. Kh&#244;ng chỉ tiếp cận c&#244;ng nghệ mới, m&#236;nh c&#242;n trưởng th&#224;nh về tư duy, teamwork v&#224; sự chủ động. Quan trọng nhất, m&#236;nh x&#225;c định r&#245; hướng đi v&#224; c&#243; đủ tự tin để theo đuổi l&#226;u d&#224;i.”</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-card">
+                            <div class="testimonial-header">
+                                <img src="/public/img/SVCNTS2026-img/alumni-pham-hoang-khanh.png" alt="Phạm Ho&#224;ng Kh&#225;nh" />
+                                <h2>Phạm Ho&#224;ng Kh&#225;nh</h2>
+                                <h4>Trưởng nh&#243;m C&#244;ng nghệ v&#224; Dữ Liệu</h4>
+                                <h6>Sinh viên công nghệ tập sự 2018</h6>
+                            </div>
+                            <div class="testimonial-body">
+                                <p>“Nhiều năm nh&#236;n lại, m&#236;nh vẫn xem chương tr&#236;nh l&#224; bước ngoặt đầu ti&#234;n đưa một sinh vi&#234;n bỡ ngỡ ra  “biển lớn”. Những trải nghiệm thực chiến gi&#250;p m&#236;nh trưởng th&#224;nh nhanh v&#224; ki&#234;n định với mục ti&#234;u. Đến h&#244;m nay, m&#236;nh c&#224;ng tr&#226;n trọng những vi&#234;n gạch đầu ti&#234;n của h&#224;nh tr&#236;nh n&#224;y.” </p>
+                            </div>
+                        </div>
+                        <div class="testimonial-card">
+                            <div class="testimonial-header">
+                                <img src="/public/img/SVCNTS2026-img/alumni-truong-tan-sang.png" alt="Trương Tấn Sang" />
+                                <h2>Trương Tấn Sang</h2>
+                                <h4>Trưởng nh&#243;m Giải ph&#225;p C&#244;ng nghệ Ph&#237;a Nam</h4>
+                                <h6>Sinh viên công nghệ tập sự 2017</h6>
+                            </div>
+                            <div class="testimonial-body">
+                                <p>“Chương tr&#236;nh đ&#227; cho m&#236;nh cơ hội tham gia ph&#225;t triển Automation Workflow v&#224; dashboard gi&#225;m s&#225;t, gi&#250;p m&#236;nh thay đổi c&#225;ch nh&#236;n về dữ liệu. Mỗi chỉ số đều  thực. M&#236;nh học được c&#225;ch trực quan h&#243;a dữ liệu để gi&#250;p đội vận h&#224;nh ph&#225;t hiện sớm vấn đề v&#224; xử l&#253;  nhanh, ch&#237;nh x&#225;c.”</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-card">
+                            <div class="testimonial-header">
+                                <img src="/public/img/SVCNTS2026-img/alumni-nguyen-ngoc-phu.png" alt="Nguyễn Ngọc Ph&#250;" />
+                                <h2>Nguyễn Ngọc Ph&#250;</h2>
+                                <h4>Lập tr&#236;nh vi&#234;n Full-stack</h4>
+                                <h6>Sinh viên công nghệ tập sự 2024</h6>
+                            </div>
+                            <div class="testimonial-body">
+                                <p>“M&#236;nh cảm thấy rất may mắn khi được tham gia. Kh&#244;ng chỉ được học hỏi, m&#236;nh c&#242;n trực tiếp l&#224;m việc với c&#225;c hệ thống như VOC, OmniAgent, OmniSR. Nhờ đ&#243;, m&#236;nh hiểu r&#245; hơn c&#225;ch sản phẩm vận h&#224;nh end-to-end v&#224; c&#225;ch tối ưu hệ thống với Redis, MySQL, Kafka.”</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-card">
+                            <div class="testimonial-header">
+                                <img src="/public/img/SVCNTS2026-img/alumni-le-thi-hong-ngot.png" alt="L&#234; Thị Hồng Ngọt" />
+                                <h2>L&#234; Thị Hồng Ngọt</h2>
+                                <h4>Lập tr&#236;nh vi&#234;n Full-stack</h4>
+                                <h6>Sinh viên công nghệ tập sự 2024</h6>
+                            </div>
+                            <div class="testimonial-body">
+                                <p>“Chương tr&#236;nh đ&#227; cho m&#236;nh cơ hội tiếp cận m&#244;i trường l&#224;m việc thực tế v&#224; tham gia trực tiếp v&#224;o c&#225;c dự &#225;n lớn như IVOICE, FPMS, IDC. Qua đ&#243;, m&#236;nh nhận ra mỗi dự &#225;n đều c&#243; những b&#224;i to&#225;n ri&#234;ng. Điều quan trọng kh&#244;ng chỉ l&#224; viết code, m&#224; l&#224; hiểu c&#225;ch hệ thống vận h&#224;nh v&#224; t&#236;m ra giải ph&#225;p ph&#249; hợp với nhu cầu của doanh nghiệp.”</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-card">
+                            <div class="testimonial-header">
+                                <img src="/public/img/SVCNTS2026-img/alumni-phan-thi-huong-binh.png" alt="Phan Thị Hương B&#236;nh" />
+                                <h2>Phan Thị Hương B&#236;nh</h2>
+                                <h4>Kỹ sư Kiểm so&#225;t Chất lượng</h4>
+                                <h6>Sinh viên công nghệ tập sự 2024</h6>
+                            </div>
+                            <div class="testimonial-body">
+                                <p>“M&#236;nh c&#243; cơ hội tham gia kiểm thử c&#225;c hệ thống như HRIS, Billing Hub, ECOM, FPT.vn v&#224; Customer 360. Nhờ đ&#243;, m&#236;nh hiểu r&#245; hơn c&#225;ch hệ thống vận h&#224;nh trong thực tế, đồng thời &#225;p dụng tư duy ‘AI-first’ để tối ưu quy tr&#236;nh, gi&#250;p c&#244;ng việc hiệu quả v&#224; chủ động hơn.”</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-card">
+                            <div class="testimonial-header">
+                                <img src="/public/img/SVCNTS2026-img/alumni-nguyen-van-quang-hung.png" alt="Nguyễn Văn Quang Hưng" />
+                                <h2>Nguyễn Văn Quang Hưng</h2>
+                                <h4>Kỹ sư Ph&#226;n t&#237;ch Dữ liệu</h4>
+                                <h6>Sinh viên công nghệ tập sự 2024</h6>
+                            </div>
+                            <div class="testimonial-body">
+                                <p>“M&#236;nh nhận ra chương tr&#236;nh kh&#244;ng chỉ gi&#250;p tiếp cận c&#244;ng việc thực tế m&#224; c&#242;n thay đổi c&#225;ch m&#236;nh nh&#236;n về dữ liệu. Khi tham gia c&#225;c dự &#225;n như Smart Agent con số đều gắn với một quyết định, v&#224; dữ liệu thực sự tạo ra gi&#225; trị trong vận h&#224;nh.”</p>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+    <section id="section-process" class="section-process">
+        <div class="container-svcnts">
+            <div class="section-heading section-heading--light">
+                <h2 style="flex: 1; z-index: 2; position: relative; color: #ffffff; font-family: 'Black Ops One', cursive; font-size: 18px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; line-height: 1.25; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8)">Quy trình <span  class="text-vuot-troi">tuyển chọn</span></h2>
+            </div>
+            <div class="timeline-container">
+                <div class="timeline-line"></div>
+
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-arrow">»</div>
+                    <div class="timeline-box">
+                        <div class="box-decor"></div>
+                        <h3 class="box-title">Đăng ký</h3>
+                        <div class="box-details">
+                            <p>Ứng tuyển qua form chính thức, chọn 01 vị trí duy nhất</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline-item right">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-arrow">«</div>
+                    <div class="timeline-box">
+                        <div class="box-decor"></div>
+                        <h3 class="box-title">Sàng lọc CV</h3>
+                        <div class="box-details">
+                            <p>Hội đồng tuyển chọn đánh giá hồ sơ và lựa chọn các CV phù hợp</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-arrow">»</div>
+                    <div class="timeline-box">
+                        <div class="box-decor"></div>
+                        <h3 class="box-title">Bài test năng lực</h3>
+                        <div class="box-details">
+                            <p>Tham gia 2 bài kiểm tra đánh giá tư duy và kiến thức công nghệ</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline-item right">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-arrow">«</div>
+                    <div class="timeline-box">
+                        <div class="box-decor"></div>
+                        <h3 class="box-title">Phỏng vấn</h3>
+                        <div class="box-details">
+                            <p>Phỏng vấn với Hội đồng chuyên môn theo từng nhóm ngành</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-arrow">»</div>
+                    <div class="timeline-box">
+                        <div class="box-decor"></div>
+                        <h3 class="box-title">Onboarding</h3>
+                        <div class="box-details">
+                            <p>Orientation Week, Welcome Day và đào tạo hội nhập định hướng</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+    <section id="section-form" class="section-form">
+        <div class="container-svcnts">
+            <div class="form-wrap">
+                <img class="dang-ki-button" src="/public/img/SVCNTS2026-img/btn-dang-ky-ngay.png" alt="Đăng ký ngay" />
+                <form id="survey-form" novalidate autocomplete="off">
+                    <input name="__RequestVerificationToken" type="hidden" value="PINWQGu30bF91rx4zMBYcTZBDi9jA5uGqS4RzHqSj8tGrtx0IyX-Sm7UYdu0rvuKikdD7USfA3A1uVqhdhKVz0NSwVIVVrWBjwr1eY6b4Z01" />
+
+                    <div class="form-row">
+                        <div class="form-group col-span-2">
+                            <label for="name">Họ và tên <span class="req">*</span></label>
+                            <input type="text" class="form-input" id="name" name="name" placeholder="Nhập họ và tên" />
+                            <div class="invalid-feedback"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email <span class="req">*</span></label>
+                            <input type="text" class="form-input" id="email" name="email" placeholder="example&#64;email.com" />
+                            <div class="invalid-feedback"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="phone-number">Số điện thoại <span class="req">*</span></label>
+                            <input type="text" class="form-input" id="phone-number" name="phone-number" placeholder="0xxxxxxxxx" />
+                            <div class="invalid-feedback"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="school">Tên trường <span class="req">*</span></label>
+                            <input type="text" class="form-input" id="school" name="school" placeholder="Nhập tên trường" />
+                            <div class="invalid-feedback"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="work-area">Khu vực ứng tuyển <span class="req">*</span></label>
+                            <select class="form-select" id="work-area" name="work-area">
+                                <option value="">-- Chọn khu vực --</option>
+                                <option value="Hà Nội">Hà Nội</option>
+                                <option value="TP. Hồ Chí Minh">TP. Hồ Chí Minh</option>
+                            </select>
+                            <div class="invalid-feedback"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="training-major">Chuyên ngành đào tạo <span class="req">*</span></label>
+                            <input type="text" class="form-input" id="training-major" name="training-major" placeholder="Nhập chuyên ngành" />
+                            <div class="invalid-feedback"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="vitri-ung-tuyen">Vị trí ứng tuyển <span class="req">*</span></label>
+                            <select class="form-select" id="vitri-ung-tuyen" name="vitri-ung-tuyen">
+                                <option value="">-- Chọn vị trí --</option>
+                                <option value="[HN] Thực tập sinh CNTT vô tuyến">[HN] Thực tập sinh CNTT vô tuyến</option>
+                                <option value="[HCM] Network Engineer TTS">[HCM] Network Engineer TTS</option>
+                                <option value="[HN & HCM] Phân tích & đánh giá hệ thống Network">[HN & HCM] Phân tích &amp; đánh giá hệ thống Network</option>
+                                <option value="[HN & HCM] Vận hành Hệ Thống Mạng">[HN & HCM] Vận hành Hệ Thống Mạng</option>
+                                <option value="[HN] VoIP Engineer">[HN] VoIP Engineer</option>
+                                <option value="[HCM] Wireless Network R&D Intern">[HCM] Wireless Network R&amp;D Intern</option>
+                                <option value="[HCM] Broadband Network Engineering Intern">[HCM] Broadband Network Engineering Intern</option>
+                                <option value="[HN & HCM] Backend Intern (Java, Python, NodeJS, C++,...)">[HN & HCM] Backend Intern (Java, Python, NodeJS, C++,...)</option>
+                                <option value="[HCM] Fullstack Intern">[HCM] Fullstack Intern</option>
+                                <option value="[HN & HCM] Business Analyst">[HN & HCM] Business Analyst</option>
+                                <option value="[HN & HCM] AI Engineer Intern (Algorithm & Agent)">[HN & HCM] AI Engineer Intern (Algorithm &amp; Agent)</option>
+                                <option value="[HCM] Full-stack AI Integration Intern (System & App)">[HCM] Full-stack AI Integration Intern (System &amp; App)</option>
+                                <option value="[HCM] DBA (Database Administrator)">[HCM] DBA (Database Administrator)</option>
+                                <option value="[HN & HCM] Data Analyst">[HN & HCM] Data Analyst</option>
+                                <option value="[HN] Data Engineering">[HN] Data Engineering</option>
+                                <option value="[HN & HCM] Data Scientist">[HN & HCM] Data Scientist</option>
+                                <option value="[HN & HCM] TTS Dữ liệu và Tự động hóa Mạng">[HN & HCM] TTS Dữ liệu và Tự động hóa Mạng</option>
+                                <option value="[HCM] Kỹ sư bảo mật ứng dụng">[HCM] Kỹ sư bảo mật ứng dụng</option>
+                                <option value="[HN] Nhân viên vận hành dịch vụ bảo mật">[HN] Nhân viên vận hành dịch vụ bảo mật</option>
+                                <option value="[HCM] Electrical Infrastructure Intern (Vị trí Điện)">[HCM] Electrical Infrastructure Intern (Vị trí Điện)</option>
+                                <option value="[HCM]  HVAC Infrastructure Engineer (Vị trí Nhiệt)">[HCM]  HVAC Infrastructure Engineer (Vị trí Nhiệt)</option>
+                                <option value="[HN] TTS công nghệ Tự động hoá">[HN] TTS công nghệ Tự động hoá</option>
+                                <option value="[HN] Automation & AI Intern (Infrastructure focus)">[HN] Automation & AI Intern (Infrastructure focus)</option>
+                                <option value="[HN & HCM] IC Design Intern (RTL & Logic Design)">[HN & HCM] IC Design Intern (RTL &amp; Logic Design)</option>
+                                <option value="[HN & HCM] IC Verification Intern">[HN & HCM] IC Verification Intern</option>
+                                <option value="[HN & HCM] Physical Design Intern">[HN & HCM] Physical Design Intern</option>
+                                <option value="[HN & HCM] Embedded Software Intern">[HN & HCM] Embedded Software Intern</option>
+                                <option value="[HN & HCM] Hardware Design Intern (PCB & System Board)">[HN & HCM] Hardware Design Intern (PCB &amp; System Board)</option>
+                            </select>
+                            <div class="invalid-feedback"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="graduation-time">Tháng/Năm tốt nghiệp <span class="req">*</span></label>
+                            <input type="text" class="form-input" id="graduation-time" name="graduation-time" placeholder="MM/YYYY" />
+                            <div class="invalid-feedback"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="working-time">Thời gian làm việc <span class="req">*</span></label>
+                            <select class="form-select" id="working-time" name="working-time">
+                                <option value="">-- Chọn thời gian --</option>
+                                <option value="Full-time">Full-time</option>
+                                <option value="Part-time">Part-time</option>
+                            </select>
+                            <div class="invalid-feedback"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="education-level">Hệ đào tạo <span class="req">*</span></label>
+                            <select class="form-select" id="education-level" name="education-level">
+                                <option value="">-- Chọn hệ đào tạo --</option>
+                                <option value="Đại học">Đại học</option>
+                                <option value="Cao đẳng">Cao đẳng</option>
+                                <option value="Khác">Khác</option>
+                            </select>
+                            <div class="invalid-feedback"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="gpa">Điểm GPA Trung bình <span class="req">*</span></label>
+                            <input type="text" class="form-input" id="gpa" name="gpa" placeholder="VD: 7.5" />
+                            <div class="invalid-feedback"></div>
+                        </div>
+
+                        <div class="form-group col-span-2">
+                            <label>Upload CV <span class="req">*</span> <span style="font-weight:400;color:#888;font-size:12px">(.pdf — tối đa 20MB)</span></label>
+                            <button type="button" class="btn-upload-cv" onclick="triggerUploadFile()" disabled>📁 Click để chọn file CV</button>
+                            <input type="file" accept=".pdf,application/pdf" id="uploadFile--input" style="display:none" />
+                            <div class="uploadFile--fileName"></div>
+                            <div class="invalid-feedback" id="cv-feedback"></div>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn-submit" disabled>Chương trình đã hết thời hạn đăng ký</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    
+    <footer class="svcnts-footer">
+        <div class="container-svcnts">
+            <div class="svcnts-footer__top">
+                <div class="svcnts-footer__logo">
+                    <img src="/public/img/SVCNTS2026-img/logo-fpt-telecom.png" alt="FPT Telecom" />
+                </div>
+                <div class="svcnts-footer__links">
+                    <a href="https://www.facebook.com/fptjobs/" target="_blank" rel="noopener">
+                        <i class="fab fa-facebook"></i><span>Fanpage</span>
+                    </a>
+                    <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                        <i class="fab fa-linkedin"></i><span>LinkedIn</span>
+                    </a>
+                    <a href="https://www.tiktok.com/" target="_blank" rel="noopener">
+                        <i class="fab fa-tiktok"></i><span>TikTok</span>
+                    </a>
+                    <a href="https://fptjobs.com/" target="_blank" rel="noopener">
+                        <i class="fas fa-globe"></i><span>FPT Jobs</span>
+                    </a>
+                </div>
+            </div>
+            <div class="svcnts-footer__divider"></div>
+            <div class="svcnts-footer__bottom">
+                <div class="svcnts-footer__copyright">
+                    Copyright © 2026. Official Website Tuyển dụng của Công ty Cổ phần Viễn thông FPT (FPT Telecom).
+                </div>
+                <a class="svcnts-footer__email" href="mailto:FTELHR.Tuyendung&#64;fpt.com">
+                    <i class="far fa-envelope"></i><span>FTELHR.Tuyendung&#64;fpt.com</span>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    
+    <script src="/Scripts/Version2/vendor/jquery-3.6.0.min.js"></script>
+    <script src="/Scripts/jquery-confirm.min.js"></script>
+    <script src="/Scripts/file-validator.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/plugins/monthSelect/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/vn.js"></script>
+
+    <script type="text/javascript">
+        const MAX_SIZE_FILE = 1024 * 1024 * 20;
+
+        // ==== Expert bio data ====
+        const expertData = {
+            sang: {
+                name: "Huỳnh Quang Sang",
+                role: "Trưởng phòng Nghiên cứu & Phát triển",
+                img: '/public/img/SVCNTS2026-img/expert-huynh-quang-sang.png',
+                bio: "Sở hữu hơn 10 năm chinh chiến trong lĩnh vực Data, anh Sang là “kiến trúc sư dữ liệu” đứng sau những nền tảng vận hành cốt lõi của doanh nghiệp. Với chuyên môn sâu về Database Administration, Data Architecture và Business Intelligence, anh không chỉ làm chủ dữ liệu mà còn biến dữ liệu thành sức mạnh tăng trưởng. Anh là “bộ não phía sau” loạt dự án dữ liệu chiến lược như Customer360, SmartAgent, Quản trị số 24/7, Marketing Intelligent những nền tảng đang tái định nghĩa cách doanh nghiệp vận hành, ra quyết định và tăng tốc chuyển đổi số."
+            },
+            than: {
+                name: "Nguyễn Trọng Thân",
+                role: "Phó Giám đốc Trung tâm AI Chip",
+                img: '/public/img/SVCNTS2026-img/expert-nguyen-trong-than.png',
+                bio: "Hơn 1 thập kỷ gắn bó với FPT, anh Thân đi lên từ Kỹ sư Nhúng (Embedded Engineer) vươn lên vị trí Product Owner hệ sinh thái IoT & FPT Camera. Không chỉ là chuyên gia làm chủ firmware cho dòng sản phẩm đạt doanh số 1 triệu thiết bị/năm, anh còn là người trực tiếp xây dựng Active Kernel (AK) - “trái tim” vận hành hàng triệu thiết bị event-driven."
+            },
+            duc: {
+                name: "Nguyễn Anh Đức",
+                role: "Giám đốc Ban FPT Life",
+                img: '/public/img/SVCNTS2026-img/expert-nguyen-anh-duc.png',
+                bio: "Anh Đức từng được vinh danh Top 13 FPT Under 35 khi giữ chức Giám đốc FPT Telecom Vùng 1 (Hà Nội). Cột mốc ghi nhận những dấu ấn lãnh đạo xuất sắc trong giai đoạn tăng trưởng mạnh mẽ của đơn vị. \nVới tư duy chiến lược sắc bén và năng lực dẫn dắt vượt trội, anh liên tục được tin tưởng giao trọng trách tại nhiều vị trí quan trọng trong Tập đoàn FPT.Trên hành trình đó, anh đã góp phần định hình và thúc đẩy sự bứt phá của các giải pháp AIoT, mở ra những bước tiến mới trong việc ứng dụng công nghệ vào nâng cao chất lượng sống và bảo đảm an ninh tại Việt Nam"
+            },
+            hai: {
+                name: "Trần Thanh Hải",
+                role: "Giám đốc Công nghệ",
+                img: '/public/img/SVCNTS2026-img/expert-tran-thanh-hai.png',
+                bio: "Anh Hải là chuyên gia công nghệ với hơn 20 năm kinh nghiệm trong lĩnh vực hạ tầng và an ninh mạng. Trước khi chuyển sang FPT Telecom, anh đã tham gia nhiều dự án trọng điểm tại FPT IS, xây dựng nền tảng vững chắc trong việc thiết kế và bảo vệ hệ thống công nghệ quy mô lớn.\nTại FPT Telecom, anh đảm nhiệm các vai trò quan trọng trong kiến trúc và quy hoạch mạng viễn thông, đồng thời dẫn dắt triển khai các dự án Big Data phục vụ phòng chống tấn công mạng.Anh sở hữu nhiều chứng chỉ chuyên sâu như CCIE, CCNP, Security+, thể hiện năng lực toàn diện trong lĩnh vực công nghệ."
+            },
+            trung: {
+                name: "Lê Trung",
+                role: "Giám đốc TT Phát triển & Quản lý Hạ tầng (INF)",
+                img: '/public/img/SVCNTS2026-img/expert-le-trung.png',
+                bio: "Gắn bó và thực chiến hơn 15 năm trong lĩnh vực viễn thông, anh Trung không chỉ là tinh hoa công nghệ sở hữu chứng chỉ danh giá CCIE Service Provider mà còn là nhà quản lý tài năng, sở hữu các danh hiệu cá nhân xuất chúng: FPT Under 35, Trạng nguyên FPT. Anh còn là người trực tiếp thiết kế, triển khai và tối ưu hóa các hệ thống network quy mô siêu lớn, giữ vững 'nhịp đập' cho toàn bộ hạ tầng viễn thông của FPT Telecom."
+            },
+            dat: {
+                name: "Nguyễn Thành Đạt",
+                role: "Phó Giám đốc Trung tâm Điều hành mạng",
+                img: '/public/img/SVCNTS2026-img/expert-nguyen-thanh-dat.png',
+                bio: "Anh Đạt với hơn 12 năm chinh chiến ở “tuyến đầu” Core IP và truyền dẫn quang là người giữ nhịp cho toàn bộ hệ thống mạng quốc gia của FPT Telecom.\nDưới sự dẫn dắt của anh, NOC không chỉ đảm bảo vận hành ổn định mà còn bứt phá với những công nghệ đón đầu như dự báo sự cố mạng, IPv6, RPKI và các nền tảng hạ tầng quy mô lớn.Chính những bước tiến này đã góp phần đưa FPT Telecom vươn lên vị thế nhà mạng tiên phong làm chủ công nghệ và dẫn dắt xu hướng hạ tầng số tại Việt Nam."
+            },
+            cong: {
+                name: "Nguyễn Thành Công",
+                role: "Trưởng phòng Công nghệ và Dữ liệu",
+                img: '/public/img/SVCNTS2026-img/expert-nguyen-thanh-cong.png',
+                bio: "Hơn 16 năm gắn bó tại FPT, anh Công hiện là chuyên gia công nghệ hàng đầu trong các mũi nhọn chiến lược từ Bảo mật, Phát triển sản phẩm đến Trí tuệ nhân tạo (AI). Không chỉ kiến tạo hệ thống vận hành tự động cho mạng lưới khổng lồ hơn 70.000 thiết bị mạng, anh còn là 'lá chắn thép' trực tiếp phát triển các giải pháp chống DDoS và xây dựng nền tảng dữ liệu huyết mạch phục vụ toàn bộ hệ sinh thái của FPT Telecom."
+            }
+        };
+
+        // ==== Hamburger ====
+        $('#hamburgerBtn').on('click', function () {
+            $('#mainNav').toggleClass('open');
+        });
+        $('#mainNav a').on('click', function () {
+            $('#mainNav').removeClass('open');
+        });
+
+        // ==== Smart scroll cho "Ứng tuyển ngay" — form nằm gọn trong viewport ====
+        $(document).on('click', 'a[href="#section-form"]', function (e) {
+            var formWrap = document.querySelector('.form-wrap');
+            if (!formWrap) return;
+            e.preventDefault();
+            var rect = formWrap.getBoundingClientRect();
+            var formHeight = rect.height;
+            var viewportHeight = window.innerHeight;
+            var formTopAbs = rect.top + window.pageYOffset;
+            var navOffset = 80;
+            var scrollTo;
+            if (formHeight + navOffset + 24 <= viewportHeight) {
+                // Form vừa với viewport → center theo trục dọc
+                scrollTo = formTopAbs - (viewportHeight - formHeight) / 2;
+            } else {
+                // Form cao hơn viewport → align top với offset nav
+                scrollTo = formTopAbs - navOffset;
+            }
+            window.scrollTo({ top: Math.max(0, scrollTo), behavior: 'smooth' });
+            history.replaceState(null, '', '#section-form');
+        });
+
+        // ==== Accordion (multiple-open) ====
+        $(document).on('click', '.accordion-header', function () {
+            $(this).closest('.accordion-item').toggleClass('open');
+        });
+
+        // ==== Timeline box toggle (Quy trình) — click để mở/đóng box-details ====
+        $(document).on('click', '.timeline-box', function () {
+            $(this).toggleClass('active');
+        });
+
+        // ==== Position modal (category tile click) ====
+        $(document).on('click', '.category-tile[data-group]', function () {
+            var key = $(this).data('group');
+            $('#position-modal-' + key).addClass('show').attr('aria-hidden', 'false');
+            $('body').addClass('modal-open');
+        });
+        $(document).on('click', '[data-modal-close]', function () {
+            var $modal = $(this).closest('.position-modal');
+            $modal.removeClass('show').attr('aria-hidden', 'true');
+            // close all accordion items inside
+            $modal.find('.accordion-item').removeClass('open');
+            $('body').removeClass('modal-open');
+        });
+        $(document).on('keydown', function (e) {
+            if (e.key === 'Escape') {
+                $('.position-modal.show').removeClass('show').attr('aria-hidden', 'true')
+                    .find('.accordion-item').removeClass('open');
+                $('body').removeClass('modal-open');
+            }
+        });
+
+        // ==== Expert modal ====
+        $(document).on('click', '.expert-card', function () {
+            const key = $(this).data('expert');
+            const ex = expertData[key];
+            if (!ex) return;
+            $('#expertModalImg').attr('src', ex.img).attr('alt', ex.name);
+            $('#expertModalName').text(ex.name);
+            $('#expertModalRole').text(ex.role);
+            $('#expertModalBio').text(ex.bio);
+            $('#expertModal').addClass('show');
+        });
+        $('#expertModalClose, #expertModal').on('click', function (e) {
+            if (e.target === this) $('#expertModal').removeClass('show');
+        });
+        $(document).on('keydown', function (e) {
+            if (e.key === 'Escape') $('#expertModal').removeClass('show');
+        });
+
+        // ==== Carousel infinite loop ====
+        function initCarousel(trackId, prevId, nextId, autoSlideMs) {
+            const $track = $('#' + trackId);
+            const $prev = $('#' + prevId);
+            const $next = $('#' + nextId);
+            let pos = 0;
+            let autoTimer = null;
+            const TRANSITION_MS = 400;
+
+            // Clone toàn bộ children để tạo loop vô tận (track giờ chứa N×2 items)
+            const $originalItems = $track.children();
+            const originalCount = $originalItems.length;
+            if (originalCount > 0) {
+                $originalItems.clone(true).appendTo($track);
+            }
+
+            function getGap() {
+                const cs = window.getComputedStyle($track[0]);
+                const g = parseFloat(cs.columnGap || cs.gap || '0');
+                return isNaN(g) ? 0 : g;
+            }
+            function getStep() {
+                const $first = $track.children().first();
+                if (!$first.length) return 0;
+                return $first.outerWidth(true) + getGap();
+            }
+            function getOriginalWidth() {
+                return getStep() * originalCount;
+            }
+            function setTransform(animated) {
+                $track.css('transition', animated ? 'transform ' + TRANSITION_MS + 'ms ease' : 'none');
+                $track.css('transform', 'translateX(' + (-pos) + 'px)');
+            }
+            function slideNext() {
+                pos += getStep();
+                setTransform(true);
+                // Khi qua hết phần original → snap về 0 không animation
+                if (pos >= getOriginalWidth()) {
+                    setTimeout(function () {
+                        pos -= getOriginalWidth();
+                        setTransform(false);
+                        // force reflow để browser apply transition: none trước khi cho transition trở lại
+                        void $track[0].offsetHeight;
+                    }, TRANSITION_MS + 20);
+                }
+            }
+            function slidePrev() {
+                // Nếu đang ở đầu → snap sang cuối phần original (không animation) rồi mới slide trái
+                if (pos <= 0) {
+                    pos = getOriginalWidth();
+                    setTransform(false);
+                    void $track[0].offsetHeight;
+                }
+                pos -= getStep();
+                setTransform(true);
+            }
+            $prev.on('click', function () { slidePrev(); restartAuto(); });
+            $next.on('click', function () { slideNext(); restartAuto(); });
+
+            // Resize: reset về 0 để không lệch
+            $(window).on('resize', function () { pos = 0; setTransform(false); });
+
+            setTransform(false);
+
+            // Auto-slide
+            function startAuto() {
+                if (autoSlideMs && autoSlideMs > 0) {
+                    autoTimer = setInterval(slideNext, autoSlideMs);
+                }
+            }
+            function stopAuto() {
+                if (autoTimer) { clearInterval(autoTimer); autoTimer = null; }
+            }
+            function restartAuto() { stopAuto(); startAuto(); }
+
+            const $container = $track.closest('.experts-carousel, .alumni-carousel');
+            $container.on('mouseenter', stopAuto).on('mouseleave', startAuto);
+
+            startAuto();
+        }
+        initCarousel('expertsTrack', 'expertsPrev', 'expertsNext', 3000);
+        initCarousel('alumniTrack', 'alumniPrev', 'alumniNext', 3000);
+
+        // ==== Form: file upload trigger ====
+        function triggerUploadFile() {
+            $('#uploadFile--input').click();
+        }
+
+        // ==== Form: validate single field ====
+        function validateField($field) {
+            const id = $field.attr('id');
+            const value = ($field.val() || '').toString().trim();
+            const $feedback = $field.closest('.form-group').find('.invalid-feedback');
+            $field.removeClass('is-valid is-invalid');
+            $feedback.text('');
+
+            const setInvalid = (msg) => { $field.addClass('is-invalid'); $feedback.text(msg); };
+            const setValid = () => { $field.addClass('is-valid'); $feedback.text(''); };
+
+            switch (id) {
+                case 'name':
+                    if (!value) return setInvalid('Họ và tên không được để trống');
+                    return setValid();
+                case 'email':
+                    var emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+                    if (!value) return setInvalid('Email không được để trống');
+                    if (!emailRegex.test(value)) return setInvalid('Email không hợp lệ');
+                    return setValid();
+                case 'phone-number':
+                    var phoneRegex = /^[0-9]{9,11}$/;
+                    if (!value) return setInvalid('Số điện thoại không được để trống');
+                    if (!phoneRegex.test(value)) return setInvalid('Số điện thoại không hợp lệ');
+                    return setValid();
+                case 'school':
+                    if (!value) return setInvalid('Tên trường không được để trống');
+                    return setValid();
+                case 'work-area':
+                    if (!value) return setInvalid('Vui lòng chọn khu vực ứng tuyển');
+                    return setValid();
+                case 'training-major':
+                    if (!value) return setInvalid('Chuyên ngành đào tạo không được để trống');
+                    return setValid();
+                case 'vitri-ung-tuyen':
+                    if (!value) return setInvalid('Vui lòng chọn vị trí ứng tuyển');
+                    return setValid();
+                case 'graduation-time':
+                    if (!value) return setInvalid('Thời gian tốt nghiệp không được để trống');
+                    return setValid();
+                case 'working-time':
+                    if (!value) return setInvalid('Vui lòng chọn thời gian làm việc');
+                    return setValid();
+                case 'education-level':
+                    if (!value) return setInvalid('Vui lòng chọn hệ đào tạo');
+                    return setValid();
+                case 'gpa':
+                    if (!value) return setInvalid('Điểm GPA không được để trống');
+                    return setValid();
+            }
+        }
+
+        // ==== Form: validate CV file (required) ====
+        function validateCvFile() {
+            const $input = $('#uploadFile--input');
+            const $feedback = $('#cv-feedback');
+            const fileName = $('.uploadFile--fileName').text().trim();
+            if (!fileName) {
+                $feedback.text('Vui lòng upload CV file (.pdf)');
+                return false;
+            }
+            $feedback.text('');
+            return true;
+        }
+
+        // ==== Form: submit handlers ====
+        const __handleValidateForm = function () {
+            const fileInput = $('#uploadFile--input')[0];
+            if (!fileInput || !fileInput.files || fileInput.files.length === 0) {
+                $('#cv-feedback').text('Vui lòng upload CV file');
+                return;
+            }
+            var formData = new FormData();
+            formData.append('CV_File', fileInput.files[0]);
+            formData.append('fileName', $('.uploadFile--fileName').text());
+            formData.append('__RequestVerificationToken', $("input[name=__RequestVerificationToken]").first().val());
+            $.ajax({
+                url: '/Survey/UploadFileToS3',
+                type: 'POST',
+                processData: false,
+                contentType: false,
+                data: formData,
+                success: function (req) {
+                    if (req.ErrorCode == "0") {
+                        $('.uploadFile--fileName').text(req.FileName);
+                        __handleSubmitform();
+                    } else {
+                        var msg = "Lỗi hệ thống, vui lòng thử lại sau.";
+                        switch (req.ReturnMsg) {
+                            case "FILE_TYPE_NOT_SUPPORT": msg = "File không được hỗ trợ, vui lòng thử file khác."; break;
+                            case "FILE_TOO_BIG": msg = "File vượt quá dung lượng cho phép"; break;
+                            case "INVALID_FILENAME": msg = "Tên file không hợp lệ."; break;
+                            case "TOO_MANY_REQUESTS": msg = "Bạn thao tác quá nhanh, vui lòng thử lại sau ít phút."; break;
+                        }
+                        $('#uploadFile--input').val('');
+                        $('.uploadFile--fileName').text('');
+                        $.confirm({
+                            title: 'Upload CV không thành công',
+                            content: msg,
+                            theme: 'material',
+                            type: 'red',
+                            boxWidth: 320,
+                            useBootstrap: false,
+                            autoClose: 'ok|5000',
+                            buttons: { ok: { text: 'Đóng', keys: ['enter'] } }
+                        });
+                    }
+                },
+                error: function () {
+                    $.confirm({
+                        title: 'Upload CV không thành công',
+                        content: 'Lỗi hệ thống, vui lòng thử lại sau.',
+                        theme: 'material',
+                        type: 'red',
+                        boxWidth: 320,
+                        useBootstrap: false,
+                        autoClose: 'ok|5000',
+                        buttons: { ok: { text: 'Đóng', keys: ['enter'] } }
+                    });
+                }
+            });
+        };
+
+        function __handleSubmitform() {
+            const fullNameVal = $('#name').val();
+            const emailVal = $('#email').val();
+            const phoneNumberVal = $('#phone-number').val();
+            const schoolVal = $('#school').val();
+            const workAreaVal = $('#work-area').val();
+            const trainingMajorVal = $('#training-major').val();
+            const viTriVal = $('#vitri-ung-tuyen').val();
+            const graduationTimeVal = $('#graduation-time').val();
+            const workingTimeVal = $('#working-time').val();
+            const educationLevelVal = $('#education-level').val();
+            const gpaVal = $('#gpa').val();
+            const fileNameVal = $('.uploadFile--fileName').text();
+
+            const question = [
+                { question: "Họ và tên", answer: [fullNameVal] },
+                { question: "Email", answer: [emailVal] },
+                { question: "Số điện thoại", answer: [phoneNumberVal] },
+                { question: "Tên trường", answer: [schoolVal] },
+                { question: "Khu vực ứng tuyển", answer: [workAreaVal] },
+                { question: "Chuyên ngành đào tạo", answer: [trainingMajorVal] },
+                { question: "Vị trí ứng tuyển", answer: [viTriVal] },
+                { question: "Thời gian tốt nghiệp (Tháng/Năm)", answer: [graduationTimeVal] },
+                { question: "Thời gian làm việc", answer: [workingTimeVal] },
+                { question: "Hệ đào tạo", answer: [educationLevelVal] },
+                { question: "Điểm GPA Trung bình", answer: [gpaVal] },
+                { question: "__uploadCV", answer: [fileNameVal] }
+            ];
+
+            var dataForm = {
+                FkSurveyStructureId: 97,
+                InterviewerCode: "",
+                FullName: fullNameVal,
+                Email: emailVal,
+                DateOfBirth: "",
+                Telephone: phoneNumberVal,
+                Degree: "",
+                SchoolName: "",
+                Major: "",
+                Experience: "",
+                RecruitmentInfo: "",
+                Question: JSON.stringify(question),
+                Address: "",
+                OtherData: "",
+                SurveyType: 1,
+                ClientId: $('#clientId').text(),
+                __RequestVerificationToken: $("input[name=__RequestVerificationToken]").first().val()
+            };
+
+            $.ajax({
+                url: '/Survey/Add',
+                type: 'POST',
+                dataType: 'json',
+                data: dataForm,
+                success: function (data) {
+                    if (data.Succeeded == true) {
+                        $.confirm({
+                            title: 'Thông báo',
+                            content: 'Cảm ơn bạn đã gửi thông tin! FPT Telecom sẽ liên hệ và phản hồi tới bạn trong thời gian gần nhất.',
+                            theme: 'material',
+                            type: 'blue',
+                            useBootstrap: false,
+                            boxWidth: 360,
+                            autoClose: 'ok|10000',
+                            buttons: {
+                                ok: {
+                                    text: 'Đóng',
+                                    keys: ['enter'],
+                                    action: function () {
+                                        console.log('move__to_applied_job');
+                                        window.location = '/';
+                                    }
+                                }
+                            }
+                        });
+                    } else {
+                        var errMsg = (data.Errors && data.Errors.length > 0) ? data.Errors[0].Description : 'Có lỗi xảy ra. Vui lòng thử lại.';
+                        $.confirm({
+                            title: 'Thông báo',
+                            content: errMsg,
+                            theme: 'material',
+                            type: 'red',
+                            useBootstrap: false,
+                            boxWidth: 360,
+                            autoClose: 'ok|10000',
+                            buttons: {
+                                ok: {
+                                    text: 'Đóng',
+                                    keys: ['enter'],
+                                    action: function () {
+                                        console.log('move__to_home');
+                                        window.location = '/';
+                                    }
+                                }
+                            }
+                        });
+                    }
+                },
+                error: function (err) {
+                    console.log(JSON.stringify(err));
+                }
+            });
+        }
+
+        // ==== Form ready ====
+        $(document).ready(function () {
+            // graduation-time picker (month-year)
+            flatpickr("#graduation-time", {
+                dateFormat: "m/Y",
+                locale: flatpickr.l10ns.vn,
+                plugins: [new monthSelectPlugin({
+                    shorthand: true,
+                    dateFormat: "m/Y",
+                    altFormat: "F Y",
+                    theme: "light"
+                })]
+            });
+
+            // input live validation
+            $('#survey-form input').on('input change', function () {
+                if ($(this).attr('id') === 'uploadFile--input') return;
+                validateField($(this));
+            });
+            $('#survey-form select').on('change', function () { validateField($(this)); });
+
+            // CV file pick handler
+            $('#uploadFile--input').on('change', function () {
+                if (!this.files || this.files.length === 0) return;
+                var file = this.files[0];
+                var inputEl = this;
+
+                // Kiểm tra PDF dùng hàm chung: đuôi .pdf + MIME + magic-byte %PDF + dung lượng
+                FileValidator.validatePdf(file, { maxSize: MAX_SIZE_FILE }).then(function (r) {
+                    if (!r.valid) {
+                        inputEl.value = '';
+                        $('.uploadFile--fileName').text('');
+                        $.confirm({
+                            title: 'Upload CV không thành công',
+                            content: r.message,
+                            theme: 'material',
+                            type: 'red',
+                            boxWidth: 320,
+                            useBootstrap: false,
+                            autoClose: 'ok|5000',
+                            buttons: { ok: { text: 'Đóng', keys: ['enter'] } }
+                        });
+                        return;
+                    }
+                    const currentDate = new Date();
+                    let [month, date, year] = currentDate.toLocaleDateString("en-US").split("/");
+                    let [hour, minute, second] = currentDate.toLocaleTimeString("en-US").split(/:| /);
+                    const renamed = date + month + year + hour + minute + second + file.name;
+                    $('.uploadFile--fileName').text(renamed.trim());
+                    $('#cv-feedback').text('');
+                });
+            });
+
+            // form submit
+            $('#survey-form').on('submit', function (e) {
+                e.preventDefault();
+                let isValid = true;
+                $('#survey-form input').each(function () {
+                    if ($(this).attr('id') === 'uploadFile--input') return;
+                    validateField($(this));
+                    if ($(this).hasClass('is-invalid')) isValid = false;
+                });
+                $('#survey-form select').each(function () {
+                    validateField($(this));
+                    if ($(this).hasClass('is-invalid')) isValid = false;
+                });
+                if (!validateCvFile()) isValid = false;
+                if (isValid) __handleValidateForm();
+            });
+        });
+    </script>
+</body>
+</html>

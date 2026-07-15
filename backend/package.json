@@ -1,0 +1,14 @@
+{
+  "name": "fptjobs-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Backend API scaffold for the FPT Jobs clone.",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "node --no-warnings=ExperimentalWarning src/server.js",
+    "start": "node --no-warnings=ExperimentalWarning src/server.js"
+  }
+}
