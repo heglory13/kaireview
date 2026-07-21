@@ -16,3 +16,4 @@ out/
 
 backend/data/*.sqlite
 backend/data/*.sqlite-*
+backend/uploads/

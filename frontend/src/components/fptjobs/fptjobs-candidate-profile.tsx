@@ -16,6 +16,7 @@ import {
   X,
 } from "lucide-react";
 import { FptHeader } from "@/components/fptjobs/fptjobs-header";
+import { formatVietnamDateTimeFromDate, parseFptJobsTimestamp } from "@/lib/fptjobs-datetime";
 import vietnamAdminUnits from "@/data/vietnam-admin-units.json";
 import vietnamMajors from "@/data/vietnam-majors.json";
 import vietnamSchools from "@/data/vietnam-schools.json";
@@ -291,24 +292,13 @@ function formatCandidateDate(value?: string | null) {
 function formatCandidateDateTime(value?: string | null) {
   if (!value?.trim()) return "-";
 
-  const dateValue = new Date(value);
+  const dateValue = parseFptJobsTimestamp(value);
 
-  if (Number.isNaN(dateValue.getTime())) {
+  if (!dateValue) {
     return value;
   }
 
-  const date = new Intl.DateTimeFormat("vi-VN", {
-    day: "2-digit",
-    month: "2-digit",
-    year: "numeric",
-  }).format(dateValue);
-  const time = new Intl.DateTimeFormat("vi-VN", {
-    hour: "2-digit",
-    hour12: false,
-    minute: "2-digit",
-  }).format(dateValue);
-
-  return `${date} ${time}`;
+  return formatVietnamDateTimeFromDate(dateValue);
 }
 
 function getApplicationStatusLabel(status: string) {

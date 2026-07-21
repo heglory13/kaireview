@@ -339,6 +339,18 @@ const validateApplicationPayload = (body) => {
       resumeUrl: typeof body.resumeUrl === "string" ? body.resumeUrl.trim() || null : null,
       coverLetter:
         typeof body.coverLetter === "string" ? body.coverLetter.trim() || null : null,
+      gender: optionalString(body, "gender"),
+      birthday: optionalString(body, "birthday"),
+      address: optionalString(body, "address"),
+      currentCity: optionalString(body, "currentCity"),
+      currentWard: optionalString(body, "currentWard"),
+      desiredCity: optionalString(body, "desiredCity"),
+      desiredWard: optionalString(body, "desiredWard"),
+      educationLevel: optionalString(body, "educationLevel"),
+      school: optionalString(body, "school"),
+      major: optionalString(body, "major"),
+      graduationYear: optionalString(body, "graduationYear"),
+      gpa: optionalString(body, "gpa"),
     },
   };
 };
@@ -539,22 +551,25 @@ const getProfileString = (profile, field) => {
   return typeof value === "string" ? value.trim() : "";
 };
 
+const getApplicationProfileString = (candidateProfile, application, field) =>
+  getProfileString(application, field) || getProfileString(candidateProfile, field);
+
 const createApplicationProfileSnapshot = (candidateProfile, application) => ({
   fullName: application.fullName,
   email: application.email,
   phone: application.phone,
-  gender: getProfileString(candidateProfile, "gender"),
-  birthday: getProfileString(candidateProfile, "birthday"),
-  address: getProfileString(candidateProfile, "address"),
-  currentCity: getProfileString(candidateProfile, "currentCity"),
-  currentWard: getProfileString(candidateProfile, "currentWard"),
-  desiredCity: getProfileString(candidateProfile, "desiredCity"),
-  desiredWard: getProfileString(candidateProfile, "desiredWard"),
-  educationLevel: getProfileString(candidateProfile, "educationLevel"),
-  school: getProfileString(candidateProfile, "school"),
-  major: getProfileString(candidateProfile, "major"),
-  graduationYear: getProfileString(candidateProfile, "graduationYear"),
-  gpa: getProfileString(candidateProfile, "gpa"),
+  gender: getApplicationProfileString(candidateProfile, application, "gender"),
+  birthday: getApplicationProfileString(candidateProfile, application, "birthday"),
+  address: getApplicationProfileString(candidateProfile, application, "address"),
+  currentCity: getApplicationProfileString(candidateProfile, application, "currentCity"),
+  currentWard: getApplicationProfileString(candidateProfile, application, "currentWard"),
+  desiredCity: getApplicationProfileString(candidateProfile, application, "desiredCity"),
+  desiredWard: getApplicationProfileString(candidateProfile, application, "desiredWard"),
+  educationLevel: getApplicationProfileString(candidateProfile, application, "educationLevel"),
+  school: getApplicationProfileString(candidateProfile, application, "school"),
+  major: getApplicationProfileString(candidateProfile, application, "major"),
+  graduationYear: getApplicationProfileString(candidateProfile, application, "graduationYear"),
+  gpa: getApplicationProfileString(candidateProfile, application, "gpa"),
   resumeUrl: application.resumeUrl ?? getProfileString(candidateProfile, "resumeUrl"),
   updatedAt: getProfileString(candidateProfile, "updatedAt"),
 });
@@ -1005,7 +1020,7 @@ const handleCreateApplication = async (request, response) => {
   const user = getAuthenticatedUser(request);
   const candidateProfile = user ? getCandidateProfile(user.id) : null;
 
-  if (user) {
+  if (user && !validation.value.resumeUrl) {
     const missingProfileFields = validateCandidateProfileCompleteness(candidateProfile);
 
     if (missingProfileFields.length > 0) {

@@ -31,6 +31,7 @@ import {
 } from "lucide-react";
 import { useEffect, useMemo, useState, type FormEvent } from "react";
 import { cn } from "@/lib/utils";
+import { formatVietnamDateTime, parseFptJobsTimestamp } from "@/lib/fptjobs-datetime";
 import {
   adminApplicationsStorageKey,
   mergeApplications,
@@ -759,20 +760,7 @@ const adminToBackendApplicationStatus: Record<ApplicationStatus, BackendApplicat
 };
 
 function formatApplicationDate(value?: string) {
-  const dateValue = value ? new Date(value) : new Date();
-  const safeDate = Number.isNaN(dateValue.getTime()) ? new Date() : dateValue;
-  const date = new Intl.DateTimeFormat("vi-VN", {
-    day: "2-digit",
-    month: "2-digit",
-    year: "numeric",
-  }).format(safeDate);
-  const time = new Intl.DateTimeFormat("vi-VN", {
-    hour: "2-digit",
-    hour12: false,
-    minute: "2-digit",
-  }).format(safeDate);
-
-  return `${date} ${time}`;
+  return formatVietnamDateTime(value);
 }
 
 async function parseJson<T>(response: Response) {
@@ -924,9 +912,9 @@ function formatAdminApplicationDate(value?: string | null) {
   const isoMatch = value.match(/^(\d{4})-(\d{2})-(\d{2})$/);
   if (isoMatch) return `${isoMatch[3]}/${isoMatch[2]}/${isoMatch[1]}`;
 
-  const dateValue = new Date(value);
+  const dateValue = parseFptJobsTimestamp(value);
 
-  if (Number.isNaN(dateValue.getTime())) {
+  if (!dateValue) {
     return value;
   }
 

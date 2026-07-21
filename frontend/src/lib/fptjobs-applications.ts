@@ -123,6 +123,7 @@ export function mergeApplications(baseApplications: FptStoredApplication[], stor
     applicationsById.set(application.id, {
       ...existingApplication,
       ...application,
+      appliedAt: existingApplication?.appliedAt ?? application.appliedAt,
       jobSlug: application.jobSlug ?? existingApplication?.jobSlug,
       profileSnapshot: mergeProfileSnapshots(existingApplication?.profileSnapshot, application.profileSnapshot),
     });

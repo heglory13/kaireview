@@ -10,6 +10,7 @@ import {
   type FptApplicationProfileSnapshot,
   type FptStoredApplication,
 } from "@/lib/fptjobs-applications";
+import { formatVietnamDateTime } from "@/lib/fptjobs-datetime";
 
 type AuthUser = {
   id: number;
@@ -131,20 +132,7 @@ function createLandingJobSlug(programSlug: string, jobTitle: string) {
 }
 
 function formatDateLabel(value?: string) {
-  const dateValue = value ? new Date(value) : new Date();
-  const safeDate = Number.isNaN(dateValue.getTime()) ? new Date() : dateValue;
-  const date = new Intl.DateTimeFormat("vi-VN", {
-    day: "2-digit",
-    month: "2-digit",
-    year: "numeric",
-  }).format(safeDate);
-  const time = new Intl.DateTimeFormat("vi-VN", {
-    hour: "2-digit",
-    hour12: false,
-    minute: "2-digit",
-  }).format(safeDate);
-
-  return `${date} ${time}`;
+  return formatVietnamDateTime(value);
 }
 
 function buildCoverLetter(input: SubmitLandingApplicationInput) {
