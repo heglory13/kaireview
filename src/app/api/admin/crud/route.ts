@@ -3,6 +3,7 @@ import { NextResponse } from "next/server";
 
 import { ADMIN_SESSION_COOKIE, isAdminSessionValid } from "@/lib/admin-auth";
 import { mutateAdminRecord } from "@/lib/admin-db";
+import { buildExternalUrl } from "@/lib/request-url";
 
 export async function POST(request: Request) {
   if (!(await isAuthorizedAdmin())) {
@@ -54,7 +55,7 @@ function redirectToSection(
     .map((part) => part.trim())
     .filter(Boolean)
     .join("/");
-  const url = new URL(safeSection ? `/admin/${safeSection}` : "/admin", request.url);
+  const url = buildExternalUrl(request, safeSection ? `/admin/${safeSection}` : "/admin");
 
   url.searchParams.set("status", status);
   url.searchParams.set("page", page);

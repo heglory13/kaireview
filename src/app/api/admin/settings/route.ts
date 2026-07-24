@@ -3,6 +3,7 @@ import { NextResponse } from "next/server";
 
 import { saveAdminSettings } from "@/lib/admin-db";
 import { ADMIN_SESSION_COOKIE, isAdminSessionValid } from "@/lib/admin-auth";
+import { buildExternalUrl } from "@/lib/request-url";
 
 export async function POST(request: Request) {
   if (!(await isAuthorizedAdmin())) {
@@ -32,7 +33,7 @@ function formValue(formData: FormData, key: string) {
 }
 
 function redirectToAdmin(request: Request, status: string, hash: string) {
-  const url = new URL("/admin", request.url);
+  const url = buildExternalUrl(request, "/admin");
 
   url.searchParams.set("status", status);
   url.hash = hash;
