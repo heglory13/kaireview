@@ -19,7 +19,7 @@ export async function POST(request: Request) {
 
   if (!verifyAdminCredentials(username, password)) {
     return NextResponse.json(
-      { message: "Tài kho?n ho?c m?t kh?u không dúng." },
+      { message: "Invalid username or password." },
       { status: 401 },
     );
   }
