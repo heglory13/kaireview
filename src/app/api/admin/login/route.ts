@@ -19,7 +19,7 @@ export async function POST(request: Request) {
 
   if (!verifyAdminCredentials(username, password)) {
     return NextResponse.json(
-      { message: "Tài khoản hoặc mật khẩu không đúng." },
+      { message: "T�i kho?n ho?c m?t kh?u kh�ng d�ng." },
       { status: 401 },
     );
   }
@@ -27,6 +27,9 @@ export async function POST(request: Request) {
   touchAdminLogin(username);
 
   const response = NextResponse.json({ ok: true });
+  const forwardedProto = request.headers.get("x-forwarded-proto");
+  const isSecureRequest =
+    forwardedProto === "https" || new URL(request.url).protocol === "https:";
 
   response.cookies.set({
     httpOnly: true,
@@ -34,7 +37,7 @@ export async function POST(request: Request) {
     name: ADMIN_SESSION_COOKIE,
     path: "/",
     sameSite: "lax",
-    secure: process.env.NODE_ENV === "production",
+    secure: isSecureRequest,
     value: createAdminSessionValue(),
   });
 
