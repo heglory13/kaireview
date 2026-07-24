@@ -95,17 +95,17 @@ ENV NEXT_PUBLIC_SITE_URL=${NEXT_PUBLIC_SITE_URL}
 # Uncomment the following line in case you want to disable telemetry during the run time.
 # ENV NEXT_TELEMETRY_DISABLED=1
 
-# Copy production assets
-COPY --from=builder --chown=node:node /app/frontend/public ./public
+# Copy production assets into the nested standalone app directory expected by server.js
+COPY --from=builder --chown=node:node /app/frontend/public ./frontend/public
 
 # Set the correct permission for prerender cache
-RUN mkdir .next
-RUN chown node:node .next
+RUN mkdir -p frontend/.next
+RUN chown -R node:node frontend/.next
 
 # Automatically leverage output traces to reduce image size
 # https://nextjs.org/docs/advanced-features/output-file-tracing
 COPY --from=builder --chown=node:node /app/frontend/.next/standalone ./
-COPY --from=builder --chown=node:node /app/frontend/.next/static ./.next/static
+COPY --from=builder --chown=node:node /app/frontend/.next/static ./frontend/.next/static
 
 # If you want to persist the fetch cache generated during the build so that
 # cached responses are available immediately on startup, uncomment this line:
