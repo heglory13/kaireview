@@ -38,7 +38,9 @@ function getSessionId() {
     return existingValue;
   }
 
-  const newValue = crypto.randomUUID();
+  const newValue =
+    window.crypto?.randomUUID?.() ??
+    `${Date.now()}-${Math.random().toString(36).slice(2, 11)}`;
 
   window.localStorage.setItem(sessionStorageKey, newValue);
 
