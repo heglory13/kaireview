@@ -14,11 +14,14 @@ services:
       - PORT=3000
       - HOSTNAME=0.0.0.0
       - NEXT_TELEMETRY_DISABLED=1
+      - UPLOAD_DIR=/app/data/uploads/admin
     env_file:
       - path: .env.local
         required: false
       - path: .env
         required: false
+    volumes:
+      - admin_uploads:/app/data/uploads/admin
     healthcheck:
       test:
         [
@@ -62,3 +65,6 @@ services:
       timeout: 10s
       retries: 3
       start_period: 15s
+
+volumes:
+  admin_uploads:

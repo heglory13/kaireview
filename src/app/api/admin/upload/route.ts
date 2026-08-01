@@ -6,18 +6,11 @@ import { cookies } from "next/headers";
 import { NextResponse } from "next/server";
 
 import { ADMIN_SESSION_COOKIE, isAdminSessionValid } from "@/lib/admin-auth";
+import { getUploadDirectory, getUploadUrl, imageExtensions } from "@/lib/admin-upload";
 
 export const runtime = "nodejs";
 
 const maxUploadSize = 8 * 1024 * 1024;
-const uploadDirectory = path.join(process.cwd(), "public", "images", "admin", "uploads");
-const uploadUrlPrefix = "/images/admin/uploads";
-const imageExtensions = {
-  "image/gif": "gif",
-  "image/jpeg": "jpg",
-  "image/png": "png",
-  "image/webp": "webp",
-} as const;
 
 export async function POST(request: Request) {
   if (!(await isAuthorizedAdmin())) {
@@ -45,6 +38,7 @@ export async function POST(request: Request) {
   }
 
   const filename = `${safeFilenameBase(image.name)}-${randomUUID()}.${extension}`;
+  const uploadDirectory = getUploadDirectory();
   const destination = path.join(uploadDirectory, filename);
   const imageBuffer = Buffer.from(await image.arrayBuffer());
 
@@ -53,7 +47,7 @@ export async function POST(request: Request) {
 
   return NextResponse.json({
     filename,
-    url: `${uploadUrlPrefix}/${filename}`,
+    url: getUploadUrl(filename),
   });
 }
 
